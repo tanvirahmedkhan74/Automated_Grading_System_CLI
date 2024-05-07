@@ -1,6 +1,7 @@
 import chalk from "chalk";
 import inquirer from "inquirer";
 import axios from "axios";
+import FormData from "form-data";
 import { LocalStorage } from "node-localstorage";
 
 export function Assessment(user) {
@@ -10,27 +11,29 @@ export function Assessment(user) {
   //   return;
   // }
 
-  return inquirer.prompt([
-    {
-      type: "list",
-      name: "action",
-      message: chalk.cyan("What do you want to do?"),
-      choices: ["Create New Assessment", "Fetch Existing", "Exit"],
-    },
-  ]).then((answer) => {
-    switch (answer.action) {
-      case "Create New Assessment":
-        return createAssessment(user.accessToken);
-      case "Fetch Existing":
-        return fetchExistingAssessments(user);
-      case "Exit":
-        console.log(chalk.redBright("Good Bye!"));
-        return Promise.resolve(); // Resolve with no value for Exit
-      default:
-        console.error(chalk.red("Invalid option. Please choose 0 or 1."));
-        return Promise.reject(new Error("Invalid user choice")); // Handle error
-    }
-  });
+  return inquirer
+    .prompt([
+      {
+        type: "list",
+        name: "action",
+        message: chalk.cyan("What do you want to do?"),
+        choices: ["Create New Assessment", "Fetch Existing", "Exit"],
+      },
+    ])
+    .then((answer) => {
+      switch (answer.action) {
+        case "Create New Assessment":
+          return createAssessment(user.accessToken);
+        case "Fetch Existing":
+          return fetchExistingAssessments(user);
+        case "Exit":
+          console.log(chalk.redBright("Good Bye!"));
+          return Promise.resolve(); // Resolve with no value for Exit
+        default:
+          console.error(chalk.red("Invalid option. Please choose 0 or 1."));
+          return Promise.reject(new Error("Invalid user choice")); // Handle error
+      }
+    });
 }
 
 function createAssessment(token) {
@@ -56,27 +59,80 @@ function fetchExistingAssessments(user) {
 
           // Storing Key and Assessments
           const keyArr = [];
-          const assessArr = []
+          const assessArr = [];
 
           // Iterating Each Assessment
           assessments.forEach((assessment, key) => {
-            console.log(chalk.blue(key,": ",assessment.title, "     ", assessment.marksheetData?.url));
+            console.log(
+              chalk.blue(
+                key,
+                ": ",
+                assessment.title,
+                "     ",
+                assessment.marksheetData?.url
+              )
+            );
             keyArr.push(key);
             assessArr.push(assessment);
-        });
-        
-        // Prompting for choosing an assessment
-        inquirer.prompt([
-            {
-              type: "list",
-              name: "action",
-              message: chalk.cyan("Update an Assessment"),
-              choices: keyArr,
-            },
-          ]).then((answer) => {
-            console.log(assessArr[answer.action]);
           });
-          
+
+          // Prompting for choosing an assessment
+          inquirer
+            .prompt([
+              {
+                type: "list",
+                name: "action",
+                message: chalk.cyan("Update an Assessment"),
+                choices: keyArr,
+              },
+            ])
+            .then((answer) => {
+              // Update the assessment
+
+              const assessment = assessArr[answer.action];
+              if (assessment) {
+                const formData = new FormData();
+                formData.append("_id", assessment._id || "");
+                formData.append("title", assessment.title || "");
+                formData.append("description", assessment.description || "");
+                formData.append("rubricLink", assessment.rubricLink || "");
+                formData.append(
+                  "studentInfoLink",
+                  assessment.studentInfoLink || ""
+                );
+                formData.append(
+                  "startDate",
+                  assessment.startDate.substring(0, 10) || ""
+                );
+                formData.append(
+                  "endDate",
+                  assessment.endDate.substring(0, 10) || ""
+                );
+                formData.append("update", "true");
+
+                // POST request for updating the assessnebt
+                axios
+                  .post(
+                    `http://localhost:8000/db/saveAssessment/${user.googleId}`,
+                    formData,
+                    { headers: { 'Content-Type': 'multipart/form-data' } }
+                  )
+                  .then((response) => {
+                    console.log(
+                      chalk.green(
+                        "Update Success! Check the sheet link after 10 minutes"
+                      )
+                    );
+                    resolve(); // Resolve after processing
+                  })
+                  .catch((error) => {
+                    console.error(
+                      chalk.red("Error updating assessments:", error)
+                    );
+                    reject(error); // Reject on error
+                  });
+              }
+            });
         }
         resolve(); // Resolve after processing
       })
