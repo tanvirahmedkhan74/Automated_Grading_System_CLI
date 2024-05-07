@@ -53,12 +53,10 @@ router.get("/getUserById/:userId", async (req, res) => {
 router.get("/getAssessments/:userId", async (req, res) => {
   try {
     const id = req.params.userId;
-    console.log(id);
     const response = await Assessment.find({ googleId: id });
 
     if (response) {
       res.status(200).json(response);
-      console.log(response)
     } else {
       res.status(200).json({ message: "No assessment Yet" });
     }

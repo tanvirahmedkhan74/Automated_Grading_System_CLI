@@ -45,17 +45,38 @@ function createAssessment(token) {
 
 function fetchExistingAssessments(user) {
   return new Promise((resolve, reject) => {
-    console.log(user);
     axios
       .get(`http://localhost:8000/db/getAssessments/${user.googleId}`)
       .then((response) => {
         const assessments = response.data;
-        console.log(assessments);
         if (assessments.length === 0) {
           console.log(chalk.yellow("No existing assessments found."));
         } else {
           console.log(chalk.magenta("Your Existing Assessments:"));
-          assessments.forEach((assessment) => console.log(chalk.blue(assessment.title)));
+
+          // Storing Key and Assessments
+          const keyArr = [];
+          const assessArr = []
+
+          // Iterating Each Assessment
+          assessments.forEach((assessment, key) => {
+            console.log(chalk.blue(key,": ",assessment.title, "     ", assessment.marksheetData?.url));
+            keyArr.push(key);
+            assessArr.push(assessment);
+        });
+        
+        // Prompting for choosing an assessment
+        inquirer.prompt([
+            {
+              type: "list",
+              name: "action",
+              message: chalk.cyan("Update an Assessment"),
+              choices: keyArr,
+            },
+          ]).then((answer) => {
+            console.log(assessArr[answer.action]);
+          });
+          
         }
         resolve(); // Resolve after processing
       })
