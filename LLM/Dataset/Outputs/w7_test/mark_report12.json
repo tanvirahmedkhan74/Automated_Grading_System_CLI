@@ -1,0 +1,1031 @@
+[
+    {
+        "prompt_no": 12,
+        "question_no": 1,
+        "level": 1,
+        "criteria": "Provide the definition of scaling up and scaling out.",
+        "result": "**: The Student's Solution provides a clear definition of scaling up and scaling out, outlining the two main approaches to scaling.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 1,
+        "level": 2,
+        "criteria": "Explain the differences between scaling up and scaling out",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution does not explain the difference between scaling up and scaling out.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 1,
+        "level": 3,
+        "criteria": "Describe what scaling up and scaling down focus on",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It only provides a general definition of scaling up and scaling out without specifying how these approaches apply to a specific question or scenario.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 1,
+        "level": 4,
+        "criteria": "Provide the benefits of scaling up and scaling out.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It clearly explains the difference between scaling up and scaling out and provides examples of each approach.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 2,
+        "level": 1,
+        "criteria": "Use Correct Formula (\u00b0C) * 9/5) + 32 for converting degree celsius to fahrenheit scale",
+        "result": "**: The Student's solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 2,
+        "level": 2,
+        "criteria": "Provide the accurate calculation using the formula (\u00b0C) * 9/5) + 32 ",
+        "result": "**: The Student's solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 2,
+        "level": 3,
+        "criteria": "Mention Accurate unit of the fahrenheit scale = \u00b0F",
+        "result": ":** The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 3,
+        "level": 1,
+        "criteria": "Mention the name of the founder of Mughal dynesty and the year Mughal dynesty was founded",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It correctly identifies the founder of the Mughal dynasty and the year it was founded.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 3,
+        "level": 2,
+        "criteria": "Write the territories of Mughal emperor's.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 3,
+        "level": 3,
+        "criteria": "Explain the rules that the Mughal emperors used",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 3,
+        "level": 4,
+        "criteria": "Describe in which century and why did the Mughal dynesty began to decline",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains the factors that led to the decline of the Mughal Empire in the 18th century.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 3,
+        "level": 5,
+        "criteria": "Provide the names of some famous Mughal emperors",
+        "result": "**>` and follow with the answer itself.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 4,
+        "level": 1,
+        "criteria": "Describe the city's association with wealthy Hindu merchants and their role in trade.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It describes the city's association with wealthy Hindu merchants and their role in trade.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 4,
+        "level": 2,
+        "criteria": "Describe the mixed architecture of Panam Nagar by mentioning the combination of European and Bengali style",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It describes the architectural heritage of Panam Nagar as a blend of European and Bengali styles.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 4,
+        "level": 3,
+        "criteria": "Mention the reasons behind the abandonment of Panam City",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 5,
+        "level": 1,
+        "criteria": "Explain In which century permanent settlement policy was introduced",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 5,
+        "level": 2,
+        "criteria": "Describe the aims of the permanent settlement policy",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 5,
+        "level": 3,
+        "criteria": "Write about the tax collectors and revenue collecting policy during parmanent settlement",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 5,
+        "level": 4,
+        "criteria": "Describe the positive and negative impacts of the permanent settlement policy",
+        "result": "**: The Student's Solution partially answers the question by highlighting the positive and negative impacts of the Permanent Settlement policy on the relationship between the British and the zamindars. However, it could have provided a more nuanced analysis by exploring the complexities and nuances of the policy's effects.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 6,
+        "level": 2,
+        "criteria": "Provide  the definition of atoms, elements and molecules",
+        "result": "**: The Student's Solution provides a definition of atoms, elements and molecules.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 6,
+        "level": 2,
+        "criteria": "Describe the structure or formation of atoms, elements and molecules",
+        "result": "**>` and follow the instructions of the question.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 7,
+        "level": 1,
+        "criteria": "Describe the heliocentric model in scientific revolution",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 7,
+        "level": 2,
+        "criteria": "Explain the process of the development of the scientific revolution",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 8,
+        "level": 1,
+        "criteria": "Describe how is climate change and salinization related to Mesopotamian civilization",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It effectively explains how climate change and salinization were interconnected factors that contributed to the rise and fall of Mesopotamian civilization.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 8,
+        "level": 2,
+        "criteria": "Describe the groups that took advantages of internal weaknesses during Mesopotamian civilization",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It explains the role of internal weaknesses in attracting external forces and reshaping the political landscape of Mesopotamia.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 8,
+        "level": 3,
+        "criteria": "Describe the unequal distribution of wealth during Mesopotamian civilization",
+        "result": "**: The Student's Solution partially answers the question by describing the existence of a clear hierarchy and the unequal distribution of wealth. However, it lacks depth and does not provide a comprehensive analysis of the factors contributing to this inequality.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 9,
+        "level": 1,
+        "criteria": "Describe the Hydraulic theory in the origin of civilization",
+        "result": ":** The Student's Solution does not provide an answer to the question implied by the criteria. It focuses on the technical aspects of water management and irrigation networks, rather than the social and cultural factors that were likely involved in the development of early civilizations.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 9,
+        "level": 2,
+        "criteria": "Explain the Urban revolution theory in origin of civilization",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It focuses on the rise of cities as a defining characteristic of civilization, but it does not address the question about the origin of civilization.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 9,
+        "level": 3,
+        "criteria": "Describe the Socioeconomic complexity theory in origin of civilization",
+        "result": "**: The Student's Solution partially answers the question by highlighting the factors of social stratification, economic specialization, and monumental architecture in the development of civilization. However, it could benefit from further elaboration and inclusion of other key aspects of the theory, such as the role of technology, the impact of climate, and the role of social cooperation.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 9,
+        "level": 4,
+        "criteria": "Explain the state formation theory in origin of civilization",
+        "result": "**>` and follow the instructions.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 10,
+        "level": 1,
+        "criteria": "Write the definition of Ohm's law",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 10,
+        "level": 2,
+        "criteria": "Explain the relationship between voltage,current and resistance",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 11,
+        "level": 1,
+        "criteria": "Describe the definitions of electric field and magnetic field",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.\n\nThe solution correctly defines both the electric field and the magnetic field, describing their respective characteristics and how they affect charged objects.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 11,
+        "level": 2,
+        "criteria": "Explain how electric field and magnetic field is represented by",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 12,
+        "level": 1,
+        "criteria": "Explain electromagnetic force",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution does not explain what electromagnetic force is or how it acts.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 12,
+        "level": 2,
+        "criteria": "Describe if two objects have the same charge, what would be their direction and why.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 13,
+        "level": 1,
+        "criteria": " Use Correct Formula F = k * q1 * q2 / r^2  for calculating the electric force.",
+        "result": "**: The Student's solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 13,
+        "level": 2,
+        "criteria": "Provide the accurate calculation using the formula F = k * q1 * q2 / r^2",
+        "result": "**: The Student's solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 13,
+        "level": 3,
+        "criteria": "Write the proper unit = N",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 14,
+        "level": 1,
+        "criteria": "Describe operation searchlight and the goals of operation searchlight",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 14,
+        "level": 2,
+        "criteria": "Write what happened in operation searchlight",
+        "result": "**: The Student's Solution does not answer the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 14,
+        "level": 3,
+        "criteria": "Describe the consequences of operation searchlight",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution does not address the question about the consequences of Operation Searchlight.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 15,
+        "level": 1,
+        "criteria": "Explain the transfer of energy",
+        "result": "**: The Student's Solution provides a comprehensive explanation of the transfer of energy, covering both the transformation and transfer aspects. It also provides examples to illustrate the concepts.\n\nTherefore, the answer is **YES**.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 15,
+        "level": 2,
+        "criteria": "Write the types of turbines",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 15,
+        "level": 3,
+        "criteria": "Explain the conversion process of energy in order to generate electricity from turbine",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It only provides a general overview of the process of converting energy in order to generate electricity from turbines.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 16,
+        "level": 1,
+        "criteria": "Explain solar flares and the causes,mechanism and impacts of solar flare",
+        "result": "**: The Student's Solution provides a good explanation of solar flares, including their causes, mechanism, and impacts. It clearly defines solar flares and provides relevant details about the phenomenon.\n\nTherefore, the answer is **YES**.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 16,
+        "level": 2,
+        "criteria": "Describe coronal mass ejecion and the causes,mechanism and impacts of  coronal mass ejection",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution does not provide any information about the causes, mechanism, or impacts of coronal mass ejections.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 16,
+        "level": 3,
+        "criteria": "Explain sun's magnetic field and its role in storing and releasing energy",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It explains the role of the Sun's magnetic field in storing and releasing energy through the process of magnetic field storage and release.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 16,
+        "level": 4,
+        "criteria": "Distinguish between the effects of solar flares and coronal mass ejection",
+        "result": ":** The Student's Solution does not answer the question implied by the criteria. It provides a general overview of solar flares and coronal mass ejections but does not specify how they affect the Earth's magnetosphere or the effects on satellites and astronauts.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 17,
+        "level": 1,
+        "criteria": "Write about Raja Ram Mohan Roy",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 17,
+        "level": 2,
+        "criteria": "Explain the steps Raja Ram Mohan Roy took to prevent the widdow killing custom or Sati Pratha",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It comprehensively outlines Raja Ram Mohan Roy's actions and efforts to prevent the widow killing custom or Sati Pratha.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 17,
+        "level": 3,
+        "criteria": "Explain the roles Raja Ram Mohan Roy played during his lifetime to reform the society,implement modern education and reform religion",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains the roles Raja Ram Mohan Roy played during his lifetime to reform the society, implement modern education and reform religion.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 18,
+        "level": 1,
+        "criteria": "Explain definiton of electrostatic force and gravitational force",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 18,
+        "level": 2,
+        "criteria": "Explain the dependency of electrostatic force and gravitational force ",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.\n\nThe Student's solution correctly identifies the key factors that affect the magnitude of electrostatic force and gravitational force, and provides a mathematical expression for the force of gravity.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 18,
+        "level": 3,
+        "criteria": "Compare the strength between electrostatic force and gravitational force",
+        "result": "**: The Student's Solution partially answers the question. It provides a comparison between the two forces but does not specify which force is stronger in specific cases.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 19,
+        "level": 1,
+        "criteria": "Describe Coumlomb's law?",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 19,
+        "level": 2,
+        "criteria": "Present the mathematical formula (F = k * q1 * q2 / r^2)",
+        "result": "**: The Student's solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 20,
+        "level": 1,
+        "criteria": "Explain operating system?",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains the role of the operating system as the core software foundation for a computer system, highlighting its responsibilities in resource allocation, process execution, and communication with peripherals.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 20,
+        "level": 2,
+        "criteria": "Explain the working method of operating system as a  resource allocator, process control center, file manager and device driver bridge",
+        "result": "**: The Student's Solution provides a comprehensive explanation of the working method of operating system as a resource allocator, process control center, file manager and device driver bridge. It covers all the key aspects of the operating system's functionality, including resource management, process scheduling, file organization, and device communication.\n\nTherefore, the answer is **YES**.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 20,
+        "level": 3,
+        "criteria": "Describe the procedure of protection and security of an operating system",
+        "result": ":** The Student's Solution provides a comprehensive overview of the procedures involved in protecting and securing an operating system. It covers various aspects such as access control, resource protection, and user management. However, it lacks specific details and examples, which could make it more difficult for an individual to fully understand the procedures described.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 21,
+        "level": 1,
+        "criteria": "Describe the structure of the Roman people's society",
+        "result": "**>` and follow the instructions.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 21,
+        "level": 2,
+        "criteria": "Explain the classes Roman people had",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It explains the different classes of Roman society and their hierarchical position.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 21,
+        "level": 3,
+        "criteria": "Describe the citizenship and family life of Romanians.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It describes the traditional citizenship and family life of Romanians, including the right of blood descent, close-knit extended families, and strong emphasis on family values.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 22,
+        "level": 1,
+        "criteria": "Explain what  cloud computing refers to",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It defines cloud computing as the on-demand delivery of computing services over the internet.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 22,
+        "level": 2,
+        "criteria": "Explain the benefits of cloud computing",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains the benefits of cloud computing in terms of scalability, cost-efficiency, and improved collaboration.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 22,
+        "level": 3,
+        "criteria": "Describe the procedure of maintaining resource sharing and security of cloud computing.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It outlines the key steps involved in maintaining resource sharing and security in cloud computing, including resource virtualization, security measures implemented by the cloud provider and the user, and best practices for cloud security.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 23,
+        "level": 1,
+        "criteria": "Explain priority inversion",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 23,
+        "level": 2,
+        "criteria": "Describe why priority inversion occurs",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It focuses on specific scenarios where priority inversion can occur but does not provide a general explanation or formula for priority inversion.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 23,
+        "level": 3,
+        "criteria": "Describe the solution to priority inversion",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 24,
+        "level": 1,
+        "criteria": "Describe the definitions of deadlock and starvation",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It only provides definitions of deadlock and starvation.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 24,
+        "level": 2,
+        "criteria": "Explain why deadlock and starvation occurs in a system",
+        "result": "The Student's Solution provides a clear and concise explanation of deadlock and starvation in a concurrent system, covering the four necessary conditions for deadlock and the two types of starvation."
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 25,
+        "level": 1,
+        "criteria": "Explain the definition of deadlock",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution does not explain the definition of deadlock or provide any insights into the topic.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 25,
+        "level": 2,
+        "criteria": "Explain the four conditions of deadlock that must met simultaneously",
+        "result": "**: The Student's Solution provides a clear explanation of the four conditions of deadlock and how they relate to each other. It also provides examples to illustrate each condition.\n\nTherefore, the answer is **YES**.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 25,
+        "level": 3,
+        "criteria": "Describe the method of preventing  deadlock",
+        "result": "The Student's Solution provides an answer to the question implied by the criteria."
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 26,
+        "level": 1,
+        "criteria": "Describe how peer to peer network works",
+        "result": "**: The Student's Solution provides a clear and concise explanation of how peer-to-peer networks function, including the concepts of resource sharing, decentralization, discovery, and data transfer.\n\nTherefore, the answer is **YES**.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 26,
+        "level": 2,
+        "criteria": "Explain how peer to peer network plays dual role",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains the dual role of a peer-to-peer network, where each device functions as both a client and a server.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 26,
+        "level": 3,
+        "criteria": "Explain how peer to peer network share resource",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution focuses on the benefits of peer-to-peer networks, but it does not address the question about how this technology facilitates resource sharing.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 27,
+        "level": 1,
+        "criteria": "Describe what is clustering",
+        "result": "**: The Student's Solution provides a definition of clustering, but it does not answer the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 27,
+        "level": 2,
+        "criteria": "Provide the definitions of asymmetric and symmetric clustering",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It defines asymmetric and symmetric clustering and explains their differences in terms of task distribution and hot standby mechanisms.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 27,
+        "level": 3,
+        "criteria": "Explain the master-slave term in asymmetric clustering",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains the master-slave term in asymmetric clustering and its advantages and disadvantages compared to a fully symmetric cluster.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 27,
+        "level": 4,
+        "criteria": "Explain how the nodes play role in symmetric clustering",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It only provides a general overview of the concept of symmetric clustering without addressing the specific question about the role of nodes in symmetric clustering.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 28,
+        "level": 1,
+        "criteria": "Explain what is partition of Bengal and who stated the term 'Partition'",
+        "result": "**: The Student's Solution does not answer the question implied by the criteria. It only provides a brief overview of the partition of Bengal and its historical context.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 28,
+        "level": 2,
+        "criteria": "Describe the divide and rule policy",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 28,
+        "level": 3,
+        "criteria": "Explain How the Hindu and Muslim people reacted to the partition of Bengal",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It explains how the Hindu and Muslim people reacted to the partition of Bengal.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 28,
+        "level": 4,
+        "criteria": "Write the impacts of partition of bengal on the people of Bengal",
+        "result": ":**\n\nThe Student's Solution provides an answer to the question implied by the criteria. It effectively captures the key impacts of partition on the people of Bengal, including the shattering of cultural and political unity, the fear of minority status for Muslims, and the social unrest and economic disruption faced by both communities.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 29,
+        "level": 1,
+        "criteria": "Describe what is the crusade, when did crusade happen and who were the parties of war",
+        "result": "**>` and follow the instructions.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 29,
+        "level": 2,
+        "criteria": "Write the reason behind recapturing Jerusalem by the Christian people",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 29,
+        "level": 3,
+        "criteria": "Provide informations about Pope Urban II and the method he used to influence peple to participate in crusade war",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It effectively captures the essence of Pope Urban II's speech and its impact on motivating European soldiers to participate in the Crusades.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 29,
+        "level": 4,
+        "criteria": "Write the political and economic reason behind the crusade and who were likely to be benefited",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains the political and economic motives behind the crusade and who were likely to be benefited.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 30,
+        "level": 1,
+        "criteria": "Write the definition of politics and political science",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 30,
+        "level": 2,
+        "criteria": "Explain political science's use of theories to explain how political systems and power structures the function ",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It explains the role of theories in political science and how they are used to analyze and explain how political systems and power structures function.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 31,
+        "level": 1,
+        "criteria": "Explain what are service robots",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It defines service robots and provides examples of their tasks.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 31,
+        "level": 2,
+        "criteria": "Describe how service robots can help human in day to day life",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution focuses on the various applications of service robots in homes, healthcare, and other sectors, but it does not directly address the question about how these robots can help humans in day to day life.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 32,
+        "level": 1,
+        "criteria": "Describe revolt of 1857",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 32,
+        "level": 2,
+        "criteria": "Explain the introduction of greased enfield rifle",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 32,
+        "level": 3,
+        "criteria": "Emphasize the religious significance of cows for hindus and pigs for muslims",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It highlights the religious significance of cows and pigs for Hindus and Muslims, and how the introduction of the Enfield rifle by the British in India ignited outrage among sepoys due to the use of greased cartridges made from cow and pig fat.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 32,
+        "level": 4,
+        "criteria": "Explain how the enfield rifle issue led to the rebellion.",
+        "result": "**: The Student's Solution does answer the question implied by the criteria. It explains how the Enfield rifle issue led to the rebellion by highlighting the distrust of the Sepoys towards the new rifles and the subsequent spread of rumors about the greased paper cartridges.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 33,
+        "level": 1,
+        "criteria": "Write a brief description of deontology",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It only provides a brief description of deontology without addressing the question directly.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 33,
+        "level": 2,
+        "criteria": "Describe what deontology focuses on",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It only provides a description of deontology.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 33,
+        "level": 3,
+        "criteria": "Write example of deontology",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It clearly outlines the principles of deontology and how they would apply in this situation.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 34,
+        "level": 1,
+        "criteria": "Describe how India helped millions of Bangali refugees to escape violence created by Pakistani militaries.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It describes India's humanitarian effort to aid millions of Bengali refugees during the 1971 Bangladesh War.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 34,
+        "level": 2,
+        "criteria": "Explain how india gave bangladeshi Military training and support",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It comprehensively explains India's military training and support to the Mukti Bahini during the Bangladesh Liberation War.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 34,
+        "level": 3,
+        "criteria": "Write India's role to gain international support for Bangladesh",
+        "result": "*"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 35,
+        "level": 1,
+        "criteria": "Briefly mention the reactants and products of photosynthesis",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It correctly describes the reactants and products of photosynthesis.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 35,
+        "level": 2,
+        "criteria": "Explain how the photosynthesis process starts with the absorption of sunlight by pigment molecules",
+        "result": "**: The Student's Solution provides a clear and concise explanation of how the photosynthesis process starts with the absorption of sunlight by pigment molecules.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 35,
+        "level": 3,
+        "criteria": "Describe how photosynthesis capture light energy and how it procudes ATP and NADPH ",
+        "result": "**: The Student's Solution provides a clear and concise explanation of how photosynthesis captures light energy and how it produces ATP and NADPH.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 35,
+        "level": 4,
+        "criteria": "Provide the importance of photosynthesis in our day to day life",
+        "result": "**>` and follow the instructions.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 36,
+        "level": 1,
+        "criteria": "Describe what is genetic engineering",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 36,
+        "level": 2,
+        "criteria": "Describe the term 'Direct manipulation' in genetic engineering",
+        "result": "**>` and follow the instructions.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 36,
+        "level": 3,
+        "criteria": "Briefly mention some techniques used in genetic engineering ",
+        "result": ":** The Student's Solution does not provide an answer to the question implied by the criteria. It only provides a general overview of genetic engineering techniques without specifically addressing the question.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 36,
+        "level": 4,
+        "criteria": "Describe various applications of genetic engineering",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 37,
+        "level": 1,
+        "criteria": "Describe what LLM refers to",
+        "result": "**: LLMs are powerful computer programs trained on massive amounts of text data. These models excel at understanding and generating human language. Imagine an LLM as an AI that has read and analyzed an enormous library of books, articles, and code. This allows them to perform a variety of tasks, such as generating different creative text formats, translating languages, writing different kinds of creative content, and answering your questions in an informative way, just like I am doing now!<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 37,
+        "level": 2,
+        "criteria": "Describe on which things LLMs are built on",
+        "result": "**: LLMs are built on a foundation of two key elements: machine learning and deep learning techniques.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 37,
+        "level": 3,
+        "criteria": "Explain the capabilities and the tasks LLMs can perform",
+        "result": "**>` followed by the answer itself.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 38,
+        "level": 1,
+        "criteria": "Write a brief  Siraj Ud Doulah and explain how he became Nabab of the then Bengal",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 38,
+        "level": 2,
+        "criteria": "Describe the battle  Siraj Ud Doulah  lose and the reasons that led to this battle",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria.\n\nThe solution clearly explains the factors that led to Siraj Ud Doulah's defeat, including the British East India Company's trade privileges, the fortification of Calcutta, and the betrayal by Mir Jafar.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 38,
+        "level": 3,
+        "criteria": "Provide the informartions about the people who betrayed Siraj Ud Doulah and the reasons behind betraying Siraj Ud Doulah",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It correctly identifies Mir Jafar as the person who betrayed Siraj Ud Doulah and explains the reasons behind the betrayal.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 38,
+        "level": 4,
+        "criteria": "What were the consequences of the battle of plassey battle on Bengal",
+        "result": "**: The Student's Solution does not answer the question implied by the criteria. It focuses on the Battle of Plassey's immediate consequences on the East India Company and its dominance in Bengal, but it does not explore the broader implications or long-term consequences of the battle on the region and the subsequent rise of India.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 39,
+        "level": 1,
+        "criteria": "Explain that a deterministic finite automata(DFA) operates on a finite number of states",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains that a DFA has a finite number of states, which allows it to efficiently determine whether an entire input string is accepted or rejected based on a clear set of rules.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 39,
+        "level": 2,
+        "criteria": "Emphasize that in deterministic finite automata(DFA)  for any given state and input symbol there is only one possible transition",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It accurately describes the deterministic nature of DFAs and how they have a clear path for processing input symbols, resulting in a specific transition for any given state and input symbol.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 40,
+        "level": 1,
+        "criteria": "Emphasize the growing tensions and resentment over British policies like taxation and restrictions on self-governance.",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It effectively highlights the colonists' resentment towards British policies and their struggle for self-determination.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 40,
+        "level": 2,
+        "criteria": "Mention key events like the Boston Tea Party, Intolerable Acts, and battles of Lexington and Concord as turning points.",
+        "result": "**: The Student's Solution does not answer the question implied by the criteria. It focuses on the buildup of tensions between the American colonies and Great Britain, but it does not explicitly address the question about the turning points that led up to the American Revolution.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 40,
+        "level": 3,
+        "criteria": "Briefly acknowledge the crucial support provided by France and other countries during american war",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It highlights the crucial role played by France and other countries in supporting the American colonists during the American War.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 41,
+        "level": 1,
+        "criteria": "Mention that the Waterfall Model is known for its structured approach and emphasis on clear documentation at each stage",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It only provides a description of the Waterfall Model without addressing the question directly.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 41,
+        "level": 2,
+        "criteria": "Emphasize the core principle of distinct phases like requirements gathering, design, development, testing, deployment, and maintenance in waterfall model.",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It focuses on the core principle of distinct phases in the Waterfall Model, but it does not address the question about the implications of these phases on project management.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 41,
+        "level": 3,
+        "criteria": "Briefly acknowledge some disadvantages of waterfall model such as inflexibility to changes, potential for errors going undetected until later stages",
+        "result": "**: The Student's Solution partially answers the question by acknowledging the inflexibility of the Waterfall Model and its potential for errors going undetected until later stages. However, it could be improved by providing more specific examples and emphasizing the challenges of adapting to changes and managing errors in a fast-paced environment.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 42,
+        "level": 1,
+        "criteria": "Write a brief description of RISC and CISC Processor",
+        "result": "**: RISC (Reduced Instruction Set Computing) processors prioritize efficiency over complexity. Unlike processors that understand a wide range of complex instructions (CISC), RISC focuses on a smaller set of simpler ones. This allows for faster decoding and execution, making them ideal for mobile devices and embedded systems that prioritize speed and lower power consumption. The trade-off is that complex tasks might require more instructions on a RISC processor, and they rely more on hardware for certain operations compared to CISC processors.\n\n**Note**: The answer addresses the question implied by the criteria by providing a brief description of RISC and CISC processors and their differences in terms of instruction set size and processing efficiency.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 42,
+        "level": 2,
+        "criteria": "Distinguish between RISC and CISC processor by mentioning the advantages and disadvantages of the processors",
+        "result": "The Student's Solution provides an answer to the question implied by the criteria."
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 43,
+        "level": 1,
+        "criteria": "Describe Agile method",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution does not address the question about Agile methodology.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 43,
+        "level": 2,
+        "criteria": "Briefly mention popular agile frameworks like Scrum,Kanban",
+        "result": ":**\n\nThe Student's Solution does not provide an answer to the question implied by the criteria. It only provides a brief overview of popular agile frameworks without delving into the specifics of each framework or how they address the question.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 43,
+        "level": 3,
+        "criteria": "Discuss the benefits of agile alongside potential drawbacks like complexity,resource demand etc",
+        "result": "The Student's Solution provides an answer to the question implied by the criteria."
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 44,
+        "level": 1,
+        "criteria": "Briefly mention that time dilation also occurs due to velocity (special relativity), but the effect in space travel is primarily due to gravity.",
+        "result": "The Student's Solution provides an answer to the question implied by the criteria."
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 44,
+        "level": 2,
+        "criteria": "Describe how time dilation is a real phenomenon considered in GPS satellite operations and astronaut aging.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It correctly describes time dilation as a real phenomenon and explains how it affects GPS satellite operations and astronaut aging.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 45,
+        "level": 1,
+        "criteria": "Distinguish between hashing and encryption. Encryption allows decryption of data with a key, while hashing is a one-way process",
+        "result": "**: The Student's Solution provides a clear and concise explanation of the difference between hashing and encryption. It accurately describes how encryption scrambles data using a key, while hashing is a one-way process that transforms data into a unique code.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 45,
+        "level": 2,
+        "criteria": "Briefly mention common hashing algorithms like SHA-256 or MD5, used for various security purposes.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains the concept of hashing algorithms and how they are used for data integrity and verification.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 46,
+        "level": 1,
+        "criteria": "Explain the law of demand in economics",
+        "result": "**: The Student's Solution does not answer the question implied by the criteria. The solution does not provide any explanation or analysis of the law of demand, and does not address the question about the relationship between price and quantity demanded.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 46,
+        "level": 2,
+        "criteria": "Distinguish Between Quantity Demanded and Demand in economics",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It only provides a description of the difference between quantity demanded and demand, but it does not address the question about their relationship.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 46,
+        "level": 3,
+        "criteria": "Briefly mention different types of demand, such as individual vs. market demand, elastic vs. inelastic demand",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 47,
+        "level": 1,
+        "criteria": "Briefly mention how the PPF can shift outwards due to factors like resource discovery, technological advancements, or increased labor force",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It does not discuss how the PPF can shift outwards due to factors like resource discovery, technological advancements, or increased labor force.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 47,
+        "level": 2,
+        "criteria": "Describe how the PPF concept is used in economics for understanding opportunity costs, comparative advantage, and international trade",
+        "result": "**: The Student's Solution provides a clear and concise explanation of the PPF concept and its relevance to understanding opportunity costs, comparative advantage, and international trade.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 48,
+        "level": 1,
+        "criteria": "Distinguish between shifts in the supply curve and movements along the curve.",
+        "result": "**: The Student's Solution provides a clear distinction between shifts in the supply curve and movements along the curve.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 48,
+        "level": 2,
+        "criteria": "Describe Shifting Factors like Input Prices ,Technology,Number of Producers",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. It does not discuss the factors that can cause a supply curve to shift, or how these shifts impact prices.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 49,
+        "level": 1,
+        "criteria": "Briefly explain the natural greenhouse effect",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria. The solution does not explain how the natural greenhouse effect traps sunlight and maintains a habitable temperature for life.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 49,
+        "level": 2,
+        "criteria": "Acknowledge that natural factors like volcanic eruptions or solar activity can also influence climate",
+        "result": "**: The Student's Solution does not provide an answer to the question implied by the criteria.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 50,
+        "level": 1,
+        "criteria": "Describe what scarcity refers to",
+        "result": "**: The Student's Solution does provide an answer to the question implied by the criteria. It clearly defines scarcity and provides an example of how scarcity can influence decision-making.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 50,
+        "level": 2,
+        "criteria": "Briefly mention different types of scarcity, such as scarcity of natural resources, time scarcity, or scarcity of specific skills or knowledge.",
+        "result": "**: The Student's Solution provides an answer to the question implied by the criteria. It explains different types of scarcity and how they affect decision-making.<eos>"
+    },
+    {
+        "prompt_no": 12,
+        "question_no": 50,
+        "level": 3,
+        "criteria": "Describe a situation where scarcity creates a trade-off between different options.",
+        "result": "**: The Student's Solution does answer the question implied by the criteria. It provides a clear and concise explanation of scarcity and its impact on economic behavior.<eos>"
+    }
+]

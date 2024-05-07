@@ -1,0 +1,1031 @@
+[
+    {
+        "prompt_no": 7,
+        "question_no": 1,
+        "level": 1,
+        "criteria": "Provide the definition of scaling up and scaling out.",
+        "result": ":** Scaling refers to the practice of increasing the capacity of a system to handle more workload. There are two main approaches to scaling:\n\n1.Scaling Up (Vertical Scaling): This involves adding more resources to a single unit, such as a server.Example: Increasing the CPU cores or processing power of a server, Adding more RAM to the server.\n\n2.Scaling Out (Horizontal Scaling): This involves adding more individual units(servers) to distribute the workload. Example: Adding more web servers to handle increased web traffic, Adding more worker nodes in a distributed computing system.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 1,
+        "level": 2,
+        "criteria": "Explain the differences between scaling up and scaling out",
+        "result": ":** Explain the differences between scaling up and scaling out.\n\n**Student's Solution:** \nWith scale-out, the storage software is decoupled from the storage hardware, allowing the company to expand its storage capacity when and how they see fit. With scale-up architectures, another piece of proprietary hardware has to be added to be able to scale.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 1,
+        "level": 3,
+        "criteria": "Describe what scaling up and scaling down focus on",
+        "result": ":** Scaling refers to adjusting a system's capacity to handle workload fluctuations.\n\n**Student's Solution:**\n\nScaling up focuses on adding more resources, like processing power or memory, to a single unit to make it stronger. Scaling out, on the other hand, is about adding more individual units, like additional servers, to distribute the workload.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 1,
+        "level": 4,
+        "criteria": "Provide the benefits of scaling up and scaling out.",
+        "result": ":**\n\n**What is the main problem the student is facing in this criteria?**\n\nThe main problem the student is facing is not provided in the context, so I cannot answer this question from the provided context.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 2,
+        "level": 1,
+        "criteria": "Use Correct Formula (\u00b0C) * 9/5) + 32 for converting degree celsius to fahrenheit scale",
+        "result": "**: The main problem the student is facing in this criteria is that they are using the wrong formula for converting degree Celsius to Fahrenheit. The correct formula is \u00b0C * 9/5 + 32.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 2,
+        "level": 2,
+        "criteria": "Provide the accurate calculation using the formula (\u00b0C) * 9/5) + 32 ",
+        "result": "**: The main problem the student is facing in this criteria is that they are not using the correct formula for calculating the Celsius temperature.\n\n**Student's Solution**: \nGiven, C=73\u00b0\n(\u00b073) * 9/5) + 32 = 163.4<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 2,
+        "level": 3,
+        "criteria": "Mention Accurate unit of the fahrenheit scale = \u00b0F",
+        "result": ":** The main problem the student is facing in this criteria is that they are not familiar with the accurate unit of the Fahrenheit scale, \u00b0F.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 3,
+        "level": 1,
+        "criteria": "Mention the name of the founder of Mughal dynesty and the year Mughal dynesty was founded",
+        "result": ":** The main problem the student is facing in this criteria is to provide more details about the founder of the Mughal dynasty.\n\n**Student's Solution:** The passage does not provide sufficient information about the founder of the Mughal dynasty, Babur.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 3,
+        "level": 2,
+        "criteria": "Write the territories of Mughal emperor's.",
+        "result": "**: The main problem the student is facing in this criteria is that it does not specify the criteria for determining the territories of the Mughal Empire. This makes it difficult to assess the student's understanding of the topic.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 3,
+        "level": 3,
+        "criteria": "Explain the rules that the Mughal emperors used",
+        "result": "**: Explain the rules that the Mughal emperors used\n\n**Student's Solution**: The Mughal emperors ruled through a centralized administration, but they also incorporated some flexibility to maintain control over their vast empire.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 3,
+        "level": 4,
+        "criteria": "Describe in which century and why did the Mughal dynesty began to decline",
+        "result": "**: The main problem the student is facing in this criteria is the weakening grip on power within the Mughal Empire.\n\n**Student's Solution**: The Mughal Empire's decline started in the 18th century, marked by a weakening grip on power. Several factors contributed to this downfall, including internal fights, financial woes, and the emergence of rivals.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 3,
+        "level": 5,
+        "criteria": "Provide the names of some famous Mughal emperors",
+        "result": "**: List of famous Mughal emperors\n\n**Answer**: The main problem the student is facing in this criteria is that it does not provide any information about the causes or consequences of the Mughal emperors' rule.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 4,
+        "level": 1,
+        "criteria": "Describe the city's association with wealthy Hindu merchants and their role in trade.",
+        "result": ":**\n\n**Describe the city's association with wealthy Hindu merchants and their role in trade.**\n\nThe city's association with wealthy Hindu merchants played a significant role in its growth and prosperity. These merchants, likely returning from Kolkata, established a new township on the ruins of an older settlement, leveraging the city's location along major rivers to become a key trade hub for muslin and other cotton fabrics. Their wealth and influence are reflected in the well-preserved brick buildings that stand as remnants of Panam Nagar's prosperous past.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 4,
+        "level": 2,
+        "criteria": "Describe the mixed architecture of Panam Nagar by mentioning the combination of European and Bengali style",
+        "result": "**: The main problem the student is facing in this criteria is to find a balance between preserving the city's unique architectural heritage and allowing for modern development.\n\n**Student's Solution**: The solution effectively addresses the main problem by highlighting the harmonious blend of European and Bengali styles in Panam Nagar's architecture. It emphasizes the importance of preserving this heritage while also allowing for modern development and growth.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 4,
+        "level": 3,
+        "criteria": "Mention the reasons behind the abandonment of Panam City",
+        "result": ":** Panam Nagar's path from a thriving merchant hub to an abandoned city is a story of gradual decline.\n\n**Student's Solution:** The main problem the student is facing in this criteria is the gradual decline of Panam Nagar's population and its transformation into an abandoned city.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 5,
+        "level": 1,
+        "criteria": "Explain In which century permanent settlement policy was introduced",
+        "result": ":** Explain In which century permanent settlement policy was introduced\n\n**Student's Solution:** The Permanent Settlement policy, a land revenue system implemented by the British East India Company, was introduced in Bengal in the 18th century. Specifically, it came into effect in 1793. This policy aimed to streamline tax collection and secure a steady income stream for the company.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 5,
+        "level": 2,
+        "criteria": "Describe the aims of the permanent settlement policy",
+        "result": ":** Student's Solution\n\nThe Permanent Settlement, implemented by the British East India Company in Bengal in 1793, aimed to address several issues. Here's a concise explanation:\n\nBoosting Revenue: The primary goal was to secure a steady flow of tax revenue for the company. By fixing land taxes and establishing permanent landlords, the British hoped for predictability and increased agricultural output.\n\nCreating a Landowning Class: The policy aimed to create a class of loyal landlords who would invest in improving their land and collecting taxes efficiently. This would benefit both the British and the landlords.\n\nSimplifying Tax Collection: The Permanent Settlement aimed to streamline tax collection by eliminating the need for frequent reassessments. This, in theory, would reduce corruption and administrative burdens.\n\nHowever, the policy had unintended consequences, including solidifying power in the hands of landlords, neglecting tenant rights, and potentially hindering agricultural innovation.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 5,
+        "level": 3,
+        "criteria": "Write about the tax collectors and revenue collecting policy during parmanent settlement",
+        "result": ":**\n\n<**The main problem the student is facing is that the Permanent Settlement shifted the responsibility from company officials to zamindars, which led to a focus on maximizing their own profits, sometimes through harsh measures on peasants.**\n\n<**Student's Solution:**\n\nThe Permanent Settlement introduced a system where the zamindars were granted hereditary rights to collect taxes from peasants in exchange for a fixed annual payment. However, this system had downsides, as zamindars often focused on maximizing their own profits, sometimes through harsh measures on peasants.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 5,
+        "level": 4,
+        "criteria": "Describe the positive and negative impacts of the permanent settlement policy",
+        "result": ":** The main problem the student is facing in this criteria is that the Permanent Settlement policy aimed to simplify tax collection and create a stable landowning class, but it ultimately created an unequal power dynamic and hindered agricultural progress.\n\n**Student's Solution:** The main problem the student is facing is that the Permanent Settlement policy aimed to simplify tax collection and create a stable landowning class, but it ultimately created an unequal power dynamic and hindered agricultural progress.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 6,
+        "level": 2,
+        "criteria": "Provide  the definition of atoms, elements and molecules",
+        "result": ":** Define atoms, elements and molecules.\n\n**Student's Solution:**\n\nSure, here's the definition of atoms, elements and molecules:\n\n**Atoms:** The fundamental unit of an element, consisting of a central nucleus (protons and neutrons) and orbiting electrons.\n\n**Elements:** Pure substances made up entirely of atoms with the same number of protons.\n\n**Molecules:** Two or more atoms chemically bonded together.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 6,
+        "level": 2,
+        "criteria": "Describe the structure or formation of atoms, elements and molecules",
+        "result": ":** Explain the main problem the student is facing in the criteria.\n\n**Student's Solution:** \nSure, here's the main problem the student is facing:\n\nThe student is trying to understand the structure of atoms, elements, and molecules, but they are struggling to grasp the concept of how these particles are held together.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 7,
+        "level": 1,
+        "criteria": "Describe the heliocentric model in scientific revolution",
+        "result": ":** The main problem the student is facing in this criteria is to understand the heliocentric model and its implications on the solar system.\n\n**Student's Solution:** The heliocentric model challenged the prevailing geocentric view by placing the Sun at the center of the solar system. This radical shift had significant implications for understanding celestial observations and offered a simpler explanation for celestial phenomena compared to the complex geocentric model.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 7,
+        "level": 2,
+        "criteria": "Explain the process of the development of the scientific revolution",
+        "result": "**: Explain the main problem the student is facing in this criteria.\n\n**Student's Solution**: The main problem the student is facing is that the criteria does not provide any specific examples of how the scientific revolution contributed to the development of abstract reasoning, quantitative thought, an understanding of how nature works, the view of nature as a machine, and the development of an experimental scientific method.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 8,
+        "level": 1,
+        "criteria": "Describe how is climate change and salinization related to Mesopotamian civilization",
+        "result": ":** The main problem the student is facing in this criteria is how climate change and salinization played a significant role in the rise and fall of Mesopotamian civilization.\n\n**Student's Solution:** Climate change played a significant role in the rise and fall of Mesopotamian civilization. Initially, a period of increased rainfall likely contributed to their success. However, over time, the climate shifted towards increased aridity and salinization. This meant:\n\n- Reduced Tigris and Euphrates River flows: Less water meant less irrigation for agriculture, the backbone of their society.\n- Saltwater intrusion: As freshwater supplies dwindled, saltwater from the Persian Gulf moved upstream, contaminating vital agricultural land.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 8,
+        "level": 2,
+        "criteria": "Describe the groups that took advantages of internal weaknesses during Mesopotamian civilization",
+        "result": ":** Internal weaknesses created cracks in the foundation of Mesopotamian civilization, making them vulnerable to external forces.\n\n**Student's Solution:** Internal weaknesses, like power struggles between city-states and declining agricultural productivity, attracted ambitious outsiders: nomadic groups like the Amorites and Gutians raided and disrupted trade routes, further destabilizing the region.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 8,
+        "level": 3,
+        "criteria": "Describe the unequal distribution of wealth during Mesopotamian civilization",
+        "result": "**: The main problem the student is facing in this criteria is the unequal distribution of wealth during Mesopotamian civilization.\n\n**Student's Solution**: The main problem is the clear hierarchy that existed, with the elite class controlling vast resources and the commoners living in modest conditions. This social stratification limited social mobility and created a significant gap between the rich and the poor.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 9,
+        "level": 1,
+        "criteria": "Describe the Hydraulic theory in the origin of civilization",
+        "result": "**: The main problem the student is facing in this criteria is to analyze the factors that led to the rise of early civilizations and how these factors were influenced by water management.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 9,
+        "level": 2,
+        "criteria": "Explain the Urban revolution theory in origin of civilization",
+        "result": ":** Explain the Urban Revolution theory in origin of civilization\n\n**Student's Solution:** The Urban Revolution theory focuses on the rise of cities as a defining characteristic of civilization. Here's a concise explanation:\n\nShift from Hunter-Gatherer to Settled Life: The theory suggests a transition from nomadic hunter-gatherer societies to permanent settlements with agriculture and food production. This reliable food supply allowed for:\n\nPopulation Growth: With a steady food source, populations could grow beyond what hunting and gathering could support.\n\nSpecialization: As food became more plentiful, people could specialize in crafts, trade, and other non-agricultural pursuits.\n\nRise of Cities: These factors, along with the need for complex social organization and infrastructure, led to the development of the first cities. These urban centers became hubs for trade, administration, and cultural development.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 9,
+        "level": 3,
+        "criteria": "Describe the Socioeconomic complexity theory in origin of civilization",
+        "result": ":** Socioeconomic Complexity Theory\n\n**Student's Solution:** The Socioeconomic Complexity Theory emphasizes the interplay of social stratification, economic specialization, monumental architecture, and technological advancements in the origin of civilization. It suggests that civilization is not merely the rise of cities or irrigation systems but rather a complex interplay of social, economic, and technological factors.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 9,
+        "level": 4,
+        "criteria": "Explain the state formation theory in origin of civilization",
+        "result": ":** Explain the state formation theory in origin of civilization\n\n**Student's Solution:** The state formation theory argues that powerful centralized governments arose due to competition and warfare between groups for resources. Societies that effectively organized and mobilized resources for warfare or defense gained an advantage, leading to the rise of powerful states with the ability to collect taxes, maintain public order, develop infrastructure, and exert control over their populations.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 10,
+        "level": 1,
+        "criteria": "Write the definition of Ohm's law",
+        "result": ":** Define Ohm's Law\n\n**Student's Solution:** Sure, the main problem the student is facing in this criteria is that they need to understand the definition of Ohm's Law.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 10,
+        "level": 2,
+        "criteria": "Explain the relationship between voltage,current and resistance",
+        "result": "**: Explain the relationship between voltage, current and resistance\n\n**Student's Solution**: Ohm's Law states that current (I) is directly proportional to voltage (V) and inversely proportional to resistance (R). This can be expressed as the formula: I = V / R.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 11,
+        "level": 1,
+        "criteria": "Describe the definitions of electric field and magnetic field",
+        "result": ":** Explain the main problem the student is facing in the criteria.\n\n**Student's Solution:** \nThe main problem the student is facing in the criteria is that they are not able to differentiate between the electric field and the magnetic field.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 11,
+        "level": 2,
+        "criteria": "Explain how electric field and magnetic field is represented by",
+        "result": "**: Explain how electric field and magnetic field is represented by lines of force, or field lines, and how they are represented by vectors.\n\n**Student's Solution**: Lines of force are used to represent electric fields, with the direction of the field indicated by the direction of the lines. Similarly, vectors are used to represent magnetic fields, with the magnitude of the vector representing the strength of the field and the direction of the vector indicating the direction of the field.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 12,
+        "level": 1,
+        "criteria": "Explain electromagnetic force",
+        "result": ":** Explain electromagnetic force\n\n**Student's Solution:** The main problem the student is facing in this criteria is that they are not familiar with the concept of electromagnetic force.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 12,
+        "level": 2,
+        "criteria": "Describe if two objects have the same charge, what would be their direction and why.",
+        "result": ":** The main problem the student is facing in this criteria is to determine the direction of the force between two objects with the same charge.\n\n**Student's Solution:** If the two charges have the same signs, Coulomb's law gives a positive result. This means that the force between the particles is repulsive.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 13,
+        "level": 1,
+        "criteria": " Use Correct Formula F = k * q1 * q2 / r^2  for calculating the electric force.",
+        "result": "**: The main problem the student is facing in this criteria is that they are not using the correct formula for calculating the electric force. The correct formula should be F = k * q1 * q2 / r^2, where k is the Coulomb constant, q1 and q2 are the charges of the two objects, and r is the distance between them.\n\n**Student's Solution**: \nSure, the formula provided is correct. However, the student should use it correctly by substituting the correct values of the charges and distance into the formula.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 13,
+        "level": 2,
+        "criteria": "Provide the accurate calculation using the formula F = k * q1 * q2 / r^2",
+        "result": "**: The main problem the student is facing in this criteria is that the value of r is not specified in the criteria, which makes it impossible to calculate the final value of F.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 13,
+        "level": 3,
+        "criteria": "Write the proper unit = N",
+        "result": "**: The main problem the student is facing in this criteria is that they are not able to write the proper unit = N.\n\n**Student's Solution**: The student should practice writing the proper unit = N. They should also make sure to pay attention to the spelling of the word.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 14,
+        "level": 1,
+        "criteria": "Describe operation searchlight and the goals of operation searchlight",
+        "result": ":**\n\n<**Student's Solution**>: The main problem the student is facing in this criteria is that the operation was carried out in a context of anti-Bihari violence, which was a major factor in the decision to carry out the operation. The student needs to consider the impact of this factor on the operation and its outcome.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 14,
+        "level": 2,
+        "criteria": "Write what happened in operation searchlight",
+        "result": ":** The main problem the student is facing in this criteria is that the operation searchlight directly precipitated the 1971 Bangladesh genocide, in which between 300,000 and 3,000,000 Bengalis were killed while around 10 million fled to neighbouring India as refugees.\n\n**Student's Solution:** The Student's Solution is not directly addressing the problem of the student in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 14,
+        "level": 3,
+        "criteria": "Describe the consequences of operation searchlight",
+        "result": ":**\n\n<**The main problem the student is facing in this criteria is the widespread violence and civilian casualties committed by the Pakistani military during the Operation Searchlight.**\n\n<**Student's Solution:**\n\nThe Student's Solution effectively addresses the main problem by providing a comprehensive overview of the consequences of the Operation Searchlight. It highlights the loss of life, the displacement of millions of Bengalis, the fueling of the Bengali nationalist movement, and the deep trauma and social divisions caused by the operation.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 15,
+        "level": 1,
+        "criteria": "Explain the transfer of energy",
+        "result": ":** Explain the transfer of energy\n\n**Student's Solution:**\n\nEnergy transfer is a process where energy changes form from one type to another, or moves from one object to another. It's a fundamental principle in physics, as energy can never be created or destroyed, only transformed. There are two main aspects of energy transfer: transformation and transfer.\n\n**Transformation** is the process by which energy changes from one form to another. For example, when you put a cold drink in the sun, the heat from the sun is transferred to the drink, causing the temperature of the drink to rise.\n\n**Transfer** is the process by which energy moves from one object to another. There are three main mechanisms of energy transfer: conduction, convection, and radiation.\n\n* **Conduction** is the transfer of heat through direct contact. For example, a hot pan transfers thermal energy to your hand when you touch it.\n* **Convection** is the transfer of heat through the movement of fluids. As water heats in a pot, it rises, creating a circulation of hot and cold water, transferring heat.\n* **Radiation** is the transfer of energy through electromagnetic waves. The sun's heat reaches us through radiation.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 15,
+        "level": 2,
+        "criteria": "Write the types of turbines",
+        "result": "**: Write the types of turbines\n\n**Student's Solution**: Turbines are machines that convert the energy of a moving fluid (liquid or gas) into mechanical energy. There are many different types of turbines, each with its own advantages and disadvantages. Here are the most common types:\n\n* Steam turbines: Steam turbines use the force of hot, pressurized steam to spin a shaft. Steam turbines are used in a wide variety of applications, including power generation, propulsion of ships and submarines, and industrial processes.\n* Gas turbines: Gas turbines use the force of hot, pressurized gas to spin a shaft. Gas turbines are used in a wide variety of applications, including power generation, propulsion of aircraft and jet engines, and industrial processes.\n* Wind turbines: Wind turbines use the force of wind to spin a shaft. Wind turbines are used to generate electricity.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 15,
+        "level": 3,
+        "criteria": "Explain the conversion process of energy in order to generate electricity from turbine",
+        "result": ":** Explain the main problem the student is facing in this criteria.\n\n**Student's Solution:** \nThe main problem the student is facing is that the explanation does not provide a clear understanding of the role of the generator in the conversion process. The student may not fully grasp the concept of magnetic fields and how they are used to generate electricity.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 16,
+        "level": 1,
+        "criteria": "Explain solar flares and the causes,mechanism and impacts of solar flare",
+        "result": ":** Explain solar flares and the causes, mechanism and impacts of solar flare\n\n**Student's Solution:**\n\nSolar flares are powerful bursts of electromagnetic radiation erupting from the Sun's surface. Imagine a giant explosion on the Sun's surface, releasing intense light and charged particles. These flares are caused by the sudden release of magnetic energy stored in the Sun's atmosphere. This can happen when tangled magnetic field lines reconnect and snap, releasing a burst of energy. The released energy heats the surrounding solar material to millions of degrees, causing the bright light we see as a solar flare. Additionally, the eruption propels a stream of energetic particles (protons and electrons) into space, called a solar particle storm. These particles can damage electronics on satellites and spacecraft, and can cause auroras, which are beautiful light displays in the sky.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 16,
+        "level": 2,
+        "criteria": "Describe coronal mass ejecion and the causes,mechanism and impacts of  coronal mass ejection",
+        "result": ":** Explain the main problem the student is facing in the criteria.\n\n**Student's Solution:** The main problem the student is facing is that the criteria does not provide a clear definition of coronal mass ejecion, which makes it difficult for the student to understand the causes, mechanism, and impacts of this phenomenon.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 16,
+        "level": 3,
+        "criteria": "Explain sun's magnetic field and its role in storing and releasing energy",
+        "result": ":** Explain sun's magnetic field and its role in storing and releasing energy\n\n**Student's Solution:** The Sun's magnetic field acts like a giant, invisible web of force. Here's how it stores and releases energy:\n\nThe Sun's magnetic field is constantly in motion, with hot, charged plasma (gas) flowing through it. These charged particles get trapped along the twisted lines of the magnetic field, like beads on a curved wire. This trapped plasma represents stored energy.\n\nAs the Sun's magnetic field lines twist and reconnect, they can snap abruptly. This sudden reconnection releases the stored energy in bursts. This release can manifest in two ways:\n\nSolar Flares: The released energy heats the surrounding plasma to millions of degrees, causing the intense light and radiation we see as a solar flare.\n\nCoronal Mass Ejections (CMEs): The reconnection can also trigger eruptions of massive clouds of hot plasma carrying a magnetic field \u2013 these are CMEs.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 16,
+        "level": 4,
+        "criteria": "Distinguish between the effects of solar flares and coronal mass ejection",
+        "result": ":** Explain the main problem the student is facing in the criteria.\n\n**Answer:** The student is facing a problem in understanding the difference between solar flares and coronal mass ejections (CMEs).<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 17,
+        "level": 1,
+        "criteria": "Write about Raja Ram Mohan Roy",
+        "result": "**:\n\n<**Analysis:** Raja Ram Mohan Roy was a pioneer in 19th century India who advocated for social justice and modernization. However, his efforts faced resistance from traditional Hindu practices and beliefs.\n\n<**Student's Solution:**\n\nRaja Ram Mohan Roy was a pioneer in 19th century India who advocated for social justice and modernization. However, his efforts faced resistance from traditional Hindu practices and beliefs. He challenged these practices and beliefs, and he was eventually successful in promoting social reforms that benefited the people of India.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 17,
+        "level": 2,
+        "criteria": "Explain the steps Raja Ram Mohan Roy took to prevent the widdow killing custom or Sati Pratha",
+        "result": ":** Student's Solution\n\nRaja Ram Mohan Roy was a staunch opponent of Sati, the practice of a widow burning herself on her husband's funeral pyre. He fought against it through various means, including public denunciation, founding the Brahmo Samaj, lobbying the government, campaigning for change, and organizing protests. His relentless efforts ultimately led to the enactment of the Bengal Sati Regulation Act of 1829, which outlawed Sati throughout British India.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 17,
+        "level": 3,
+        "criteria": "Explain the roles Raja Ram Mohan Roy played during his lifetime to reform the society,implement modern education and reform religion",
+        "result": ":** Explain the main problem the student is facing in this criteria.\n\n**Answer:** The main problem the student is facing is that they need to provide more specific examples of the social evils Raja Ram Mohan Roy fought and the modern education he promoted.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 18,
+        "level": 1,
+        "criteria": "Explain definiton of electrostatic force and gravitational force",
+        "result": "**: Explain the main problem the student is facing in the criteria.\n\n**Answer**: The main problem the student is facing in the criteria is that they need to define electrostatic force and gravitational force.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 18,
+        "level": 2,
+        "criteria": "Explain the dependency of electrostatic force and gravitational force ",
+        "result": ":** Explain the dependency of electrostatic force and gravitational force\n\n**Student's Solution:** The main problem the student is facing is that they are not able to differentiate between the two forces.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 18,
+        "level": 3,
+        "criteria": "Compare the strength between electrostatic force and gravitational force",
+        "result": ":** Compare the strength between electrostatic force and gravitational force\n\n**Student's Solution:** For electrons (or protons), electrostatic force is dominant and is much greater than the gravitational force. On the other hand, gravitational force is generally dominant for objects with large masses.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 19,
+        "level": 1,
+        "criteria": "Describe Coumlomb's law?",
+        "result": "**: The main problem the student is facing in this criteria is that they are not able to explain the relationship between the charges and the force of attraction or repulsion between them.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 19,
+        "level": 2,
+        "criteria": "Present the mathematical formula (F = k * q1 * q2 / r^2)",
+        "result": "**: The main problem the student is facing in this criteria is that the formula does not account for the variable r, which could lead to incorrect results.\n\n**Student's Solution**: The student should include the variable r in the formula to ensure that the results are accurate.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 20,
+        "level": 1,
+        "criteria": "Explain operating system?",
+        "result": ":** Explain operating system?\n\n**Student's Solution:** The main problem the student is facing in this criteria is to understand the role of the operating system in a computer system.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 20,
+        "level": 2,
+        "criteria": "Explain the working method of operating system as a  resource allocator, process control center, file manager and device driver bridge",
+        "result": "**: The main problem the student is facing in this criteria is that the student is not able to clearly define the responsibilities of each component of the operating system.\n\n**Student's Solution**: \n\n1. The student should first understand the responsibilities of each component of the operating system. This can be done by reading the official documentation or by consulting with an IT professional.\n\n2. Once the student has a clear understanding of the responsibilities of each component, they can start to develop a solution that addresses the problem. For example, the student could create a flowchart that shows how the operating system allocates resources to processes, or they could write a program that simulates the behavior of the operating system.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 20,
+        "level": 3,
+        "criteria": "Describe the procedure of protection and security of an operating system",
+        "result": ":**\n\n**The main problem the student is facing in this criteria is to explain the difference between access control and resource protection.**\n\n**Student's Solution:**\n\nSure, the Student's Solution addresses the main problem by providing a clear distinction between access control and resource protection. The solution correctly identifies that access control focuses on controlling who can access system resources, while resource protection focuses on controlling what resources are accessible to each user.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 21,
+        "level": 1,
+        "criteria": "Describe the structure of the Roman people's society",
+        "result": "**: Roman society was a complex hierarchy with distinct classes. At the top stood the patricians, a hereditary aristocracy who held most political power and land ownership. Below them were the plebeians, a larger and more diverse group encompassing farmers, artisans, shopkeepers, and the urban poor. Slaves, captured in war or born into servitude, formed the lowest rung, providing labor for the wealthy and having no legal rights.\n\n**Student's Solution**: YES. This solution directly addresses the main problem identified in the criteria: the rigid structure of Roman society, with distinct classes based on wealth and social standing.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 21,
+        "level": 2,
+        "criteria": "Explain the classes Roman people had",
+        "result": "**: The main problem the student is facing in this criteria is to understand the social hierarchy of Roman society and the different classes that existed within it.\n\n**Student's Solution**: The passage clearly outlines the social hierarchy of Roman society, with the patricians at the top, followed by the plebeians, then the urban poor, and finally slaves. This solution directly addresses the student's problem by providing a clear and concise overview of the social classes and their positions within Roman society.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 21,
+        "level": 3,
+        "criteria": "Describe the citizenship and family life of Romanians.",
+        "result": "**: Romanian citizenship follows a traditional jus sanguinis (right of blood) descent system, meaning citizenship is primarily passed down from parents to children. Romanians who have a Romanian parent are eligible to apply for citizenship, even if they were born abroad.  Family life in Romania traditionally centers around close-knit extended families.\nMultigenerational households are common, with grandparents often playing an active role in raising children.  Romanian culture places a strong emphasis on family values, with traditions and holidays celebrated together.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 22,
+        "level": 1,
+        "criteria": "Explain what  cloud computing refers to",
+        "result": ":** Explain what cloud computing refers to\n\n**Student's Solution:** Cloud computing refers to the on-demand delivery of computing services \u2013 including servers, storage, databases, networking, software, analytics, and intelligence \u2013 over the internet (\"the cloud\").<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 22,
+        "level": 2,
+        "criteria": "Explain the benefits of cloud computing",
+        "result": ":** Explain the benefits of cloud computing\n\n**Student's Solution:** Cloud computing offers several advantages over traditional on-premise IT infrastructure. One key benefit is scalability and flexibility. Cloud resources can be easily scaled up or down based on changing needs, eliminating the need for expensive upfront investments in hardware. Additionally, cloud computing provides cost-efficiency. Users only pay for the resources they consume, reducing the burden of maintaining physical infrastructure and software licenses. Furthermore, cloud computing fosters improved collaboration, as data and applications can be accessed from anywhere with an internet connection, streamlining teamwork and remote work capabilities. Cloud providers also typically handle security and maintenance, ensuring data protection and freeing up internal IT resources for other tasks. Overall, cloud computing offers a dynamic and cost-effective way to access and manage IT resources.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 22,
+        "level": 3,
+        "criteria": "Describe the procedure of maintaining resource sharing and security of cloud computing.",
+        "result": "**: Analyzing the criteria, the main problem the student is facing is ensuring the security and integrity of cloud computing resources. \n\n**Student's Solution**: Maintaining resource sharing and security in cloud computing requires a multi-layered approach.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 23,
+        "level": 1,
+        "criteria": "Explain priority inversion",
+        "result": "**: Explain priority inversion\n\n**Student's Solution**: \nSure, the Student's Solution accurately addresses the main problem identified in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 23,
+        "level": 2,
+        "criteria": "Describe why priority inversion occurs",
+        "result": ":** Explain priority inversion in simple terms.\n\n**Student's Solution:** \nSure, here's a simple explanation of priority inversion:\n\nWhen multiple tasks have the same priority, the operating system assigns them resources based on their priority levels. However, if a lower-priority task is waiting for a resource held by a higher-priority task, the higher-priority task can delay the lower-priority task's execution. This is because the lower-priority task is preempted by the higher-priority task.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 23,
+        "level": 3,
+        "criteria": "Describe the solution to priority inversion",
+        "result": "Student's Solution"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 24,
+        "level": 1,
+        "criteria": "Describe the definitions of deadlock and starvation",
+        "result": "**:\n\n**Deadlock**\n\n**Student's Solution**:\n\nSure, the Student's Solution addresses the main problem of the criteria by providing a clear definition of deadlock.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 24,
+        "level": 2,
+        "criteria": "Explain why deadlock and starvation occurs in a system",
+        "result": "**: Explain why deadlock and starvation occurs in a system\n\n**Student's Solution**: \nDeadlock and starvation occur in a system when four conditions are met simultaneously: Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. If these conditions are not met, the system can enter a deadlock state, where no process can make progress. Starvation occurs when a process is indefinitely denied access to the resources it needs to make progress.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 25,
+        "level": 1,
+        "criteria": "Explain the definition of deadlock",
+        "result": "**:\n\n**What is the main problem the student is facing in this criteria?**\n\nThe main problem the student is facing is that they are unable to reach an agreement on a deadlock situation because neither side will change their demands or accept any of the demands of the other side.\n\n**Student's Solution**:\n\nDeadlock: a situation in which agreement in an argument cannot be reached because neither side will change its demands or accept any of the demands of the other side: break the deadlock Somebody will have to compromise if we are to break (= end) the deadlock between the two warring factions.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 25,
+        "level": 2,
+        "criteria": "Explain the four conditions of deadlock that must met simultaneously",
+        "result": "**: Explain the four conditions of deadlock that must met simultaneously.\n\n**Student's Solution**: \n\nSure, here's the explanation of the four conditions of deadlock:\n\n1. **Mutual Exclusion**: A resource can only be held by one process at a time. No other process can access the resource until the first process releases it.\n\n\n2. **Hold and Wait**: A process holding at least one resource is waiting for another resource currently held by another process.\n\n\n3. **No Preemption**: Resources cannot be forcibly taken away from a process. They must be voluntarily released by the holding process.\n\n\n4. **Circular Wait**: There exists a circular chain of waiting processes where each process is waiting for a resource held by the next process in the chain.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 25,
+        "level": 3,
+        "criteria": "Describe the method of preventing  deadlock",
+        "result": ""
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 26,
+        "level": 1,
+        "criteria": "Describe how peer to peer network works",
+        "result": "*"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 26,
+        "level": 2,
+        "criteria": "Explain how peer to peer network plays dual role",
+        "result": "**: Explain how peer to peer network plays dual role\n\n**Student's Solution**: In a peer-to-peer (P2P) network, each participating device functions as both a client and a server. This means individual computers act as clients by requesting resources like files or data from other peers within the network. Simultaneously, they act as servers by sharing their own resources, such as storage space or processing power, with other users. This dual role of client and server is a defining characteristic of P2P networks, enabling a distributed and collaborative way to share resources without relying on a central authority.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 26,
+        "level": 3,
+        "criteria": "Explain how peer to peer network share resource",
+        "result": "**: Explain how peer to peer network share resource\n\n**Student's Solution**: \nP2P networks provide a decentralized approach to resource sharing, eliminating the need for a central server. Each computer (peer) acts as both a client and server, allowing clients to directly request and provide files, storage, or processing power to other peers in the network. This decentralized structure presents challenges in regulating content and ensuring security.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 27,
+        "level": 1,
+        "criteria": "Describe what is clustering",
+        "result": ":**\n\nClustering refers to the practice of grouping multiple individual computers, called nodes, together to act as a single, powerful system. These nodes are connected by high-speed networking and run specialized software that allows them to share resources and work collaboratively on tasks, providing benefits like increased processing power, improved fault tolerance, and better scalability.\n\n**Student's Solution:**\n\nSure, the Student's Solution directly addresses the problem the student is facing in the criteria. The solution provides a clear definition of clustering and its benefits, which will help the student understand the concept better.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 27,
+        "level": 2,
+        "criteria": "Provide the definitions of asymmetric and symmetric clustering",
+        "result": ":** Asymmetric clustering\n\n**Student's Solution:** Asymmetric clustering prioritizes tasks by designating one node as a \"hot standby\" and the others for running applications. The hot standby node continuously monitors the entire system. If a running application node fails, the hot standby takes over seamlessly, ensuring high availability and minimal downtime for critical tasks. This approach offers a cost-effective solution with increased reliability compared to single-node systems.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 27,
+        "level": 3,
+        "criteria": "Explain the master-slave term in asymmetric clustering",
+        "result": ":** Explain the master-slave term in asymmetric clustering\n\n**Student's Solution:** \nThe master-slave relationship ensures a centralized control point for managing resources and handling failures while allowing the slave nodes to focus on processing power. It offers a simpler and more cost-effective solution compared to a fully symmetric cluster, making it suitable for scenarios where high availability for critical tasks is essential, but scalability isn't the primary concern.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 27,
+        "level": 4,
+        "criteria": "Explain how the nodes play role in symmetric clustering",
+        "result": ":** Explain how the nodes play role in symmetric clustering\n\n**Student's Solution:** In symmetric clustering, all nodes play an equal role. They function as both clients and servers, collaboratively sharing processing power, resources, and tasks. This distributed workload management enhances scalability and performance, as the cluster can leverage the combined capacity of all nodes. Additionally, if one node fails, the remaining nodes can seamlessly take over its tasks, ensuring high availability and fault tolerance for applications running on the cluster.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 28,
+        "level": 1,
+        "criteria": "Explain what is partition of Bengal and who stated the term 'Partition'",
+        "result": "**: Explain what is partition of Bengal and who stated the term 'Partition'?\n\n**Answer**: The partition of Bengal refers to the 1905 division of British India's Bengal Presidency along religious lines.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 28,
+        "level": 2,
+        "criteria": "Describe the divide and rule policy",
+        "result": "**: Analyze the divide and rule policy and provide an analysis of the problem it was trying to address. Then provide the Student's Solution.\n\n**Analysis**: The divide and rule policy was a strategy used by colonial powers to maintain control over their colonies by exploiting existing social divisions and fostering distrust and competition between different groups. This policy aimed to weaken any potential for unified resistance against their rule and allowed them to exert control with fewer colonial forces needed.\n\n**Student's Solution**: The Student's Solution effectively addresses the problem by highlighting the negative consequences of the divide and rule policy. It emphasizes the lasting social fragmentation and conflict that continues to plague some post-colonial nations.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 28,
+        "level": 3,
+        "criteria": "Explain How the Hindu and Muslim people reacted to the partition of Bengal",
+        "result": "**: The main problem the student is facing in this criteria is that the partition of Bengal in 1905 dismantled Bengali unity and cultural identity.\n\n**Student's Solution**: The partition of Bengal in 1905 sparked outrage across the region, with Hindus feeling it dismantled Bengali unity and cultural identity, while Muslims grew apprehensive of potential Hindu dominance within it.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 28,
+        "level": 4,
+        "criteria": "Write the impacts of partition of bengal on the people of Bengal",
+        "result": "**: The main problem the student is facing in the criteria is that the partition of Bengal in 1905 deeply impacted the people of Bengal, shattering their cultural and political unity and sparking protests and a rise in nationalism.\n\n**Student's Solution**: The partition of Bengal in 1905 deeply impacted the people of Bengal, shattering their cultural and political unity and sparking protests and a rise in nationalism. The partition's legacy continues to shape Bengali identity and relations between India and Bangladesh.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 29,
+        "level": 1,
+        "criteria": "Describe what is the crusade, when did crusade happen and who were the parties of war",
+        "result": "**: The main problem the student is facing in this criteria is to understand the context and causes of the Crusades.\n\n**Student's Solution**: The Crusades were sparked by Pope Urban II's desire to recapture Jerusalem and the Holy Land from Muslim control. This event triggered a series of religious wars between Christians and Muslims from 1095 to 1291, aiming to achieve this goal.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 29,
+        "level": 2,
+        "criteria": "Write the reason behind recapturing Jerusalem by the Christian people",
+        "result": "**: The main problem the student is facing in this criteria is that the Christian people were motivated by a desire to recapture Jerusalem, the holiest city in Christianity, which had fallen to Muslim control.\n\n**Student's Solution**: The Crusades were sparked by a call to recapture Jerusalem, the holiest city in Christianity, which had fallen to Muslim control.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 29,
+        "level": 3,
+        "criteria": "Provide informations about Pope Urban II and the method he used to influence peple to participate in crusade war",
+        "result": "**: The main problem the student is facing is that Pope Urban II's speech failed to address the real needs and concerns of the people. The speech focused on a distant and idealized Jerusalem, which failed to resonate with the soldiers' immediate concerns and motivations.\n\n**Student's Solution**: Pope Urban II's speech effectively mobilized a wave of European soldiers for the Crusades by appealing to their religious fervor, sense of chivalry, and promises of land and riches. However, the speech failed to address the real needs and concerns of the people, such as the lack of resources and the dangers of war.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 29,
+        "level": 4,
+        "criteria": "Write the political and economic reason behind the crusade and who were likely to be benefited",
+        "result": "**: The main problem the student is facing in this criteria is to analyze the driving forces behind the Crusades and the underlying political and economic motives that shaped the war.\n\n**Student's Solution**: While religious fervor was the driving force for many Crusaders, there were also underlying political and economic motives that shaped the war. European nobles saw the Crusades as an opportunity to expand their territories and gain political power. Knights sought land and glory, while merchants anticipated increased trade opportunities with the East if they could secure control of key trade routes. The Church itself stood to benefit from increased influence and prestige, solidifying its position as the dominant power in Europe.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 30,
+        "level": 1,
+        "criteria": "Write the definition of politics and political science",
+        "result": "**:\n\n<**Analysis of Criteria and Student's Solution**>\n\n**Analysis of Criteria**:\n\n- The criteria describe a situation where people living in groups make decisions.\n- The student's solution provides a definition of politics, which is the way that people living in groups make decisions.\n- However, the student's solution does not provide any information about the study of politics and power, which is an important aspect of politics.\n\n**Student's Solution**:\n\n- The student's solution does not directly address the problem of the student's lack of understanding about the study of politics and power.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 30,
+        "level": 2,
+        "criteria": "Explain political science's use of theories to explain how political systems and power structures the function ",
+        "result": ":** Explain political science's use of theories to explain how political systems and power structures the function.\n\n**Student's Solution:** Political science uses theories as frameworks to analyze and explain how political systems and power structures function. These theories act like lenses, focusing on different aspects of politics. For example, some theories like pluralism emphasize the role of competing interest groups in influencing policy, while others like elite theory focus on the concentration of power among a small, privileged group. By examining these diverse perspectives, political scientists can gain a deeper understanding of how decisions are made, resources are allocated, and power dynamics shape political realities. These theories are not always definitive answers, but rather tools for sparking critical thinking, guiding research, and fostering informed debate about the complex world of politics.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 31,
+        "level": 1,
+        "criteria": "Explain what are service robots",
+        "result": ":** Explain what are service robots\n\n**Student's Solution:** Service robots are machines that assist humans with various tasks, typically those that are dirty, dull, dangerous, or repetitive. They can perform tasks like cleaning, delivery, security patrols, customer service, and even healthcare assistance.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 31,
+        "level": 2,
+        "criteria": "Describe how service robots can help human in day to day life",
+        "result": "**> The main problem the student is facing in this criteria is that service robots are not able to perform all the tasks that humans can do.\n\n**<**Student's Solution**> The main problem is that service robots are not able to perform all the tasks that humans can do. While they can handle cleaning duties, lawn care, and basic maintenance tasks, they are not yet capable of performing complex surgeries, disinfecting surfaces, or providing companionship and reminders. As service robot technology advances, they are expected to play an even greater role in various sectors, potentially helping with logistics and delivery, customer service interactions, or even performing inspections in hazardous environments.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 32,
+        "level": 1,
+        "criteria": "Describe revolt of 1857",
+        "result": ":** The main problem the student is facing in this criteria is that it does not specify the problem or issue with the revolt. Therefore, I cannot generate an answer from the context.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 32,
+        "level": 2,
+        "criteria": "Explain the introduction of greased enfield rifle",
+        "result": "**:\n\n<**Analysis**: The main problem the student is facing is the introduction of the greased Enfield rifle, which was seen as an offense to both Hindu and Muslim religious beliefs.\n\n<**Student's Solution**: The introduction of the Enfield rifle sparked discontent among sepoys because it required them to bite off a greased paper cartridge before loading, which was seen as an offense to both Hindu and Muslim religious beliefs.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 32,
+        "level": 3,
+        "criteria": "Emphasize the religious significance of cows for hindus and pigs for muslims",
+        "result": "**: The main problem the student is facing is the religious significance of cows and pigs for Hindus and Muslims, respectively.\n\n**Student's Solution**: The introduction of the Enfield rifle in 1857 by the British in India ignited outrage among sepoys (Indian soldiers) because it required greased cartridges rumored to be made from cow and pig fat. This seemingly trivial act by the British fueled the flames of the Sepoy Mutiny, highlighting the deep religious and cultural sensitivities simmering beneath the surface.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 32,
+        "level": 4,
+        "criteria": "Explain how the enfield rifle issue led to the rebellion.",
+        "result": "**: Analysis of the criteria: The main problem the student is facing is the distrust of the Enfield rifle among the Sepoys due to the requirement of biting off greased paper cartridges before loading. This distrust was fueled by rumors and cultural disregards towards the religious beliefs of the Indian soldiers.\n\n**Student's Solution**: The introduction of the Enfield rifle acted as a spark that ignited a larger rebellion because it required biting off greased paper cartridges before loading, which was perceived as a symbol of British disrespect for Indian religious beliefs.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 33,
+        "level": 1,
+        "criteria": "Write a brief description of deontology",
+        "result": "**: Deontology is an ethical theory that emphasizes following moral duties and obligations rather than focusing solely on consequences. Unlike consequentialist ethics which judge actions based on their outcomes, deontologists believe certain actions are inherently right or wrong, regardless of the situation. Think of it as a rule-based system, where following moral principles like truthfulness, fairness, and respecting the rights of others is paramount in making ethical decisions.\n\n**Student's Solution**: YES. The Student's Solution directly addresses the problem by introducing the concept of deontology and its focus on moral duties and obligations rather than solely considering consequences.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 33,
+        "level": 2,
+        "criteria": "Describe what deontology focuses on",
+        "result": "**: The main problem the student is facing in this criteria is that it focuses on duty rather than consequences, which may lead to prioritizing actions that are not morally right.\n\n**Student's Solution**: Deontology emphasizes the importance of following established moral principles, such as honesty, fairness, and respecting the rights of others, regardless of the outcome. By focusing on duty, students can make ethical decisions that align with these principles, even if they may have negative consequences in the short term.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 33,
+        "level": 3,
+        "criteria": "Write example of deontology",
+        "result": "**: Student's Solution does not directly address the problem in the criteria. \n\nThe main problem the student is facing is that they are prioritizing their duty to protect public health over the concerns about the individual patient's reputation.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 34,
+        "level": 1,
+        "criteria": "Describe how India helped millions of Bangali refugees to escape violence created by Pakistani militaries.",
+        "result": ":** India helped millions of Bangali refugees to escape violence created by Pakistani militaries. \n\n**Student's Solution:** In response to violence by Pakistani militaries in 1971, India mounted a massive humanitarian effort to aid millions of Bengali refugees fleeing across the border. This involved setting up refugee camps, providing food and medical care, and even engaging in a war with Pakistan to secure safe passage for refugees and ultimately Bangladesh's liberation.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 34,
+        "level": 2,
+        "criteria": "Explain how india gave bangladeshi Military training and support",
+        "result": "**> The main problem the student is facing in this criteria is that India provided military training and support to the Mukti Bahini, but it did not directly engage in full-scale warfare with Pakistan at the beginning. This resulted in a delay in the war's outcome.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 34,
+        "level": 3,
+        "criteria": "Write India's role to gain international support for Bangladesh",
+        "result": "**: India played a crucial role in garnering international support for Bangladesh's liberation struggle in 1971.\n\n**Student's Solution**: India's diplomacy and advocacy, highlighting the human cost of the conflict, countering Pakistan's narrative, and providing support from the Soviet Union and the United States all contributed to garnering international support for Bangladesh's liberation struggle.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 35,
+        "level": 1,
+        "criteria": "Briefly mention the reactants and products of photosynthesis",
+        "result": ":** The main problem the student is facing in this criteria is that it does not provide a clear definition of photosynthesis. \n\n**Student's Solution:** The main problem the student is facing is that it does not provide a clear definition of photosynthesis. The solution could be improved by providing a more detailed explanation of the process, including the reactants and products, and how they are used to create energy.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 35,
+        "level": 2,
+        "criteria": "Explain how the photosynthesis process starts with the absorption of sunlight by pigment molecules",
+        "result": ":** Explain how the photosynthesis process starts with the absorption of sunlight by pigment molecules\n\n**Student's Solution:** Inside plant cells are tiny structures called chloroplasts which contain chlorophyll, a pigment molecule. Chlorophyll acts like a light antenna. When sunlight hits chlorophyll, it absorbs the light energy,  like capturing little packets of sunshine. This absorbed energy then jumpstarts the complex process of converting water and carbon dioxide into valuable fuel for the plant (glucose) and releasing oxygen as a byproduct.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 35,
+        "level": 3,
+        "criteria": "Describe how photosynthesis capture light energy and how it procudes ATP and NADPH ",
+        "result": "**: Explain the main problem the student is facing in the criteria.\n\n**Answer**: The main problem the student is facing in the criteria is that they are not able to explain how the energy captured by chlorophyll is used to produce ATP and NADPH.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 35,
+        "level": 4,
+        "criteria": "Provide the importance of photosynthesis in our day to day life",
+        "result": "**: Photosynthesis underpins the entire ecological food web and is fundamental to life on Earth as we know it. Through this process, plants capture light energy and convert it into chemical energy stored in the form of glucose. This glucose not only fuels the plant's own growth and development, but also serves as the primary source of energy for all heterotrophic organisms, including humans. Plants also release oxygen as a byproduct of photosynthesis, the very gas we breathe and which is essential for cellular respiration in most organisms. Therefore, photosynthesis plays a critical role in maintaining a habitable environment and forms the energetic basis for all life on our planet.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 36,
+        "level": 1,
+        "criteria": "Describe what is genetic engineering",
+        "result": ":** Genetic engineering, also known as genetic modification, is a technique that allows scientists to alter the genetic makeup of an organism. This involves manipulating the DNA, the instruction manual of life. Scientists can insert new genes, remove unwanted ones, or change existing genes to create organisms with desired traits.\n\n**Student's Solution:** Yes, this solution directly addresses the problem identified in the criteria. It explains the basic concept of genetic engineering and its applications in different fields.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 36,
+        "level": 2,
+        "criteria": "Describe the term 'Direct manipulation' in genetic engineering",
+        "result": ":** Direct manipulation in genetic engineering involves physically introducing or modifying the DNA of an organism.\n\n**Student's Solution:** In genetic engineering, direct manipulation refers to techniques that involve physically introducing or modifying the DNA of an organism. This contrasts with indirect methods that influence gene expression without altering the DNA sequence itself. Direct manipulation techniques can involve inserting new genes, removing unwanted ones, or changing existing sequences within the organism's genome. These techniques allow scientists to create genetically modified organisms (GMOs) with specific traits, such as disease resistance in crops or the production of therapeutic proteins in bacteria.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 36,
+        "level": 3,
+        "criteria": "Briefly mention some techniques used in genetic engineering ",
+        "result": "**>\n\n**Genetic engineering utilizes a toolbox of techniques to manipulate DNA. Some common methods include:**\n\n- Inserting new genes using vectors like plasmids (circular DNA molecules)\n- Removing unwanted genes with restriction enzymes (molecular scissors)\n- Altering existing genes through techniques like CRISPR (a system that precisely edits DNA)\n\nThese techniques allow scientists to tailor the genetic makeup of organisms for various purposes.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 36,
+        "level": 4,
+        "criteria": "Describe various applications of genetic engineering",
+        "result": ":** Describe various applications of genetic engineering\n\n**Student's Solution:** Genetic engineering has a wide range of applications across various fields. In medicine, it's used to produce life-saving drugs like insulin, engineer cells for gene therapy in diseases like cystic fibrosis, and develop crops with enhanced nutritional value to combat malnutrition. Agriculture benefits from engineered crops resistant to pests and diseases, leading to increased food production and reduced reliance on pesticides. Genetic engineering even finds uses in industrial processes, with modified bacteria capable of breaking down pollutants or producing biofuels offering a more sustainable future. However, ethical considerations and potential risks surrounding unintended consequences necessitate careful evaluation before widespread application.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 37,
+        "level": 1,
+        "criteria": "Describe what LLM refers to",
+        "result": "**>` followed by the answer itself.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 37,
+        "level": 2,
+        "criteria": "Describe on which things LLMs are built on",
+        "result": ":**\n\nSure, I understand the criteria and the context of large language models (LLMs). I am ready to analyze the situation and provide a Student's Solution.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 37,
+        "level": 3,
+        "criteria": "Explain the capabilities and the tasks LLMs can perform",
+        "result": "**>` followed by the answer itself.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 38,
+        "level": 1,
+        "criteria": "Write a brief  Siraj Ud Doulah and explain how he became Nabab of the then Bengal",
+        "result": ":** Siraj Ud Doulah faced several challenges in becoming the Nawab of Bengal. His family ties and the growing British East India Company posed significant obstacles to his succession.\n\n**Student's Solution:** Siraj Ud Doulah's family ties and the growing British East India Company presented significant obstacles to his succession.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 38,
+        "level": 2,
+        "criteria": "Describe the battle  Siraj Ud Doulah  lose and the reasons that led to this battle",
+        "result": ":**\n\n**Analysis:**\n\nSiraj Ud Doulah's loss at the Battle of Plassey was primarily caused by the British East India Company's misuse of trade privileges, their fortification of Calcutta, and a betrayal by Mir Jafar.\n\n**Student's Solution:**\n\nThe solution effectively addresses the main problem by highlighting the factors that contributed to Siraj's defeat. It provides a clear understanding of the conflict and the role of key players involved.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 38,
+        "level": 3,
+        "criteria": "Provide the informartions about the people who betrayed Siraj Ud Doulah and the reasons behind betraying Siraj Ud Doulah",
+        "result": "**: Analysis of the situation and Student's Solution\n\n**Analysis**: The main problem the student is facing is that Mir Jafar betrayed Siraj Ud Doulah's trust by sabotaging his military efforts. This act of treachery weakened Siraj's forces and ultimately contributed to his downfall.\n\n**Student's Solution**: Mir Jafar conspired with the East India Company to sabotage Siraj's military efforts by withholding troops and potentially engaging in pre-battle negotiations with the British. This act of treachery significantly weakened Siraj's forces and ultimately contributed to his downfall.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 38,
+        "level": 4,
+        "criteria": "What were the consequences of the battle of plassey battle on Bengal",
+        "result": "**: The main problem the student is facing in this criteria is that the East India Company's victory in the Battle of Plassey laid the groundwork for their dominance, weakening the Mughal grip on the region. This new power structure led to economic exploitation, with the British prioritizing profits over Bengal's well-being. Social unrest and cultural disruption followed, but it also sowed the seeds of Indian independence movements as resentment towards British rule grew.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 39,
+        "level": 1,
+        "criteria": "Explain that a deterministic finite automata(DFA) operates on a finite number of states",
+        "result": "**: The main problem the student is facing in this criteria is to understand the concept of a DFA and how it operates on a finite number of states.\n\n**Student's Solution**: A DFA is a simple decision machine that operates on a finite number of states. The key aspect of a DFA is that it has a finite number of states, meaning there's a fixed limit to the different \"situations\" the machine can be in while processing the input. Imagine a maze with a limited number of junctions. The DFA's state determines its location in this maze, and the input symbol tells it which specific path to take from that state. This finite number of states allows the DFA to efficiently determine whether an entire input string is accepted or rejected based on a clear set of rules.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 39,
+        "level": 2,
+        "criteria": "Emphasize that in deterministic finite automata(DFA)  for any given state and input symbol there is only one possible transition",
+        "result": "**: The main problem the student is facing in this criteria is that it is describing a property of a DFA that is not applicable in real-world scenarios.\n\n**Student's Solution**: The defining characteristic of a Deterministic Finite Automata (DFA) lies in its deterministic nature. Unlike its non-deterministic cousin, a DFA has a clear path for processing input. For any given state the DFA is currently in, and any given input symbol it encounters, there can only be one possible transition. This deterministic behavior allows DFAs to efficiently analyze input strings, reaching a clear \"accept\" or \"reject\" decision based on the transitions they make through their finite number of states.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 40,
+        "level": 1,
+        "criteria": "Emphasize the growing tensions and resentment over British policies like taxation and restrictions on self-governance.",
+        "result": "**: The main problem the student is facing is the lack of representation they feel they have in Parliament, leading to resentment towards British policies.\n\n**Student's Solution**: In the years leading up to the American Revolution, colonists harbored a deep resentment towards British policies. Taxation measures like the Stamp Act and the Townshend Acts were seen as unfair burdens placed upon them without proper representation in Parliament.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 40,
+        "level": 2,
+        "criteria": "Mention key events like the Boston Tea Party, Intolerable Acts, and battles of Lexington and Concord as turning points.",
+        "result": ":**\n\n<**The main problem the student is facing in this criteria is to analyze the turning points in the American Revolution and identify the key events that led up to the war.**\n\n<**Student's Solution:**\n\nThe simmering tensions between the American colonies and Great Britain reached a boiling point in the years leading up to the American Revolution. The Boston Tea Party, a defiant act of protest against taxation without representation, sparked outrage from the British Parliament. In retaliation, the Intolerable Acts, a series of punitive measures aimed at punishing Massachusetts, further alienated the colonists. These harsh laws solidified a sense of oppression and a yearning for independence.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 40,
+        "level": 3,
+        "criteria": "Briefly acknowledge the crucial support provided by France and other countries during american war",
+        "result": "**: The main problem the student is facing in this criteria is to analyze the role of France and other countries in supporting the American colonists during the American War.\n\n**Student's Solution**: The passage highlights the crucial role played by France and other countries in supporting the American colonists during the American War. Their military and financial assistance significantly bolstered the Continental Army, creating a formidable opposition against British forces.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 41,
+        "level": 1,
+        "criteria": "Mention that the Waterfall Model is known for its structured approach and emphasis on clear documentation at each stage",
+        "result": ":** The main problem the student is facing in this criteria is that the Waterfall Model can be less flexible in adapting to changes during development.\n\n**Student's Solution:** The Waterfall Model's emphasis on a clearly defined progression can be a challenge when changes or requirements are introduced during development.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 41,
+        "level": 2,
+        "criteria": "Emphasize the core principle of distinct phases like requirements gathering, design, development, testing, deployment, and maintenance in waterfall model.",
+        "result": ":** The main problem the student is facing is that the Waterfall Model's rigidity can make it challenging to adapt to changes that may arise later in the development cycle.\n\n**Student's Solution:** The solution suggests that the Waterfall Model's rigidity can be overcome by emphasizing the importance of flexibility and adaptability within the model. By incorporating iterative and incremental approaches within each phase, the student can ensure that the project remains on track and delivers working software increments throughout the development process.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 41,
+        "level": 3,
+        "criteria": "Briefly acknowledge some disadvantages of waterfall model such as inflexibility to changes, potential for errors going undetected until later stages",
+        "result": ":** The main problem the student is facing in this criteria is its inflexibility to changes.\n\n**Student's Solution:** Despite its structured approach, the Waterfall Model has its limitations. One major drawback is its inflexibility. Since phases progress sequentially, adapting to changes later in development can be difficult and costly.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 42,
+        "level": 1,
+        "criteria": "Write a brief description of RISC and CISC Processor",
+        "result": ":** RISC (Reduced Instruction Set Computing) processors prioritize efficiency over complexity. Unlike processors that understand a wide range of complex instructions (CISC), RISC focuses on a smaller set of simpler ones. This allows for faster decoding and execution, making them ideal for mobile devices and embedded systems that prioritize speed and lower power consumption. The trade-off is that complex tasks might require more instructions on a RISC processor, and they rely more on hardware for certain operations compared to CISC processors.\n\n**Student's Solution:**\n\nThe main problem the student is facing is that complex tasks might require more instructions on a RISC processor, and they rely more on hardware for certain operations compared to CISC processors.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 42,
+        "level": 2,
+        "criteria": "Distinguish between RISC and CISC processor by mentioning the advantages and disadvantages of the processors",
+        "result": ":** RISC and CISC processors take opposing approaches to instruction sets.\n\n**Student's Solution:** \nRISC (Reduced Instruction Set Computing) prioritizes simplicity with a smaller set of basic instructions that are faster to execute. This makes them ideal for mobile devices with its speed and efficiency, while complex tasks might require more RISC instructions. CISC (Complex Instruction Set Computing) processors offer a wider range of complex instructions, making them versatile for various tasks without needing extra hardware. However, these complex instructions take longer to decode, potentially slowing down processing and increasing power usage.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 43,
+        "level": 1,
+        "criteria": "Describe Agile method",
+        "result": ":** Agile method\n\n**Student's Solution:** The main problem the student is facing is that Agile methods can be difficult to implement effectively, especially for projects with evolving requirements or uncertain environments.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 43,
+        "level": 2,
+        "criteria": "Briefly mention popular agile frameworks like Scrum,Kanban",
+        "result": "* Student's Solution"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 43,
+        "level": 3,
+        "criteria": "Discuss the benefits of agile alongside potential drawbacks like complexity,resource demand etc",
+        "result": "**: Discuss the benefits of agile alongside potential drawbacks like complexity, resource demand etc\n\n**Student's Solution**: Agile offers advantages like flexibility to adapt to changes, faster delivery of features, improved quality through continuous testing, and better collaboration. However, it can be complex to manage due to multiple sprints and changing requirements, requires adaptable and available resources, may struggle with unclear requirements, and risk uncontrolled feature creep.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 44,
+        "level": 1,
+        "criteria": "Briefly mention that time dilation also occurs due to velocity (special relativity), but the effect in space travel is primarily due to gravity.",
+        "result": ":** Time dilation, the slowing down of time, is an effect of both gravity (general relativity) and velocity (special relativity). However, for space travel scenarios, the effect of gravity dominates. While moving at high speeds can cause some time dilation, the gravitational pull near massive objects like planets or the space station has a more significant impact on how fast time runs for astronauts compared to Earth. So, for space travelers, the weird time effects they experience are primarily due to the warping of spacetime by gravity, not just their velocity.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 44,
+        "level": 2,
+        "criteria": "Describe how time dilation is a real phenomenon considered in GPS satellite operations and astronaut aging.",
+        "result": ":** Explain the main problem the student is facing in the criteria.\n\n**Answer:** The main problem the student is facing is that they are not aware of the scientific phenomenon of time dilation and its implications for GPS satellite operations and astronaut aging.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 45,
+        "level": 1,
+        "criteria": "Distinguish between hashing and encryption. Encryption allows decryption of data with a key, while hashing is a one-way process",
+        "result": ":**\n\n<**Hashing and Encryption: A Crucial Distinction**\n\n**Student's Solution:**\n\nSure, the Student's Solution accurately addresses the main problem in the criteria. It clearly differentiates between hashing and encryption, emphasizing their contrasting functionalities and the importance of each for data security.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 45,
+        "level": 2,
+        "criteria": "Briefly mention common hashing algorithms like SHA-256 or MD5, used for various security purposes.",
+        "result": ":**\n\nThe main problem the student is facing in this criteria is that they are not familiar with the concept of hashing algorithms and how they can be used for data integrity and verification.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 46,
+        "level": 1,
+        "criteria": "Explain the law of demand in economics",
+        "result": "**: The law of demand is a fundamental principle in economics that states there's an inverse relationship between the price of a good and the quantity demanded.\n\n**Student's Solution**: The law of demand is a fundamental principle in economics that states there's an inverse relationship between the price of a good and the quantity demanded. This means that as the price of a good goes up, people tend to buy less of it, and conversely, when the price falls, people are more likely to purchase it.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 46,
+        "level": 2,
+        "criteria": "Distinguish Between Quantity Demanded and Demand in economics",
+        "result": "**: The main problem the student is facing in this criteria is to distinguish between quantity demanded and demand.\n\n**Student's Solution**: In economics, both quantity demanded and demand are important concepts related to consumer behavior, but they differ in scope. Quantity demanded refers to the specific amount of a good or service that people are willing and able to buy at a particular price. It's like a point on a graph, reflecting how much is purchased at a specific price point. On the other hand, demand represents the entire relationship between price and quantity demanded. It's like the whole graph, encompassing how the quantity demanded changes as the price fluctuates.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 46,
+        "level": 3,
+        "criteria": "Briefly mention different types of demand, such as individual vs. market demand, elastic vs. inelastic demand",
+        "result": ":**\n\n<**Analysis**>\n\nThe criteria describe the different types of demand, but it does not specify which type of demand the student is facing in the situation.\n\n<**Student's Solution**>\n\nThe student should consider the type of demand relevant to the situation, whether it's individual demand or market demand.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 47,
+        "level": 1,
+        "criteria": "Briefly mention how the PPF can shift outwards due to factors like resource discovery, technological advancements, or increased labor force",
+        "result": "**: The main problem the student is facing in this criteria is how the PPF can shift outwards due to factors like resource discovery, technological advancements, or increased labor force.\n\n**Student's Solution**: The PPF isn't set in stone! It can shift outwards, signifying an economy's ability to produce more of both goods. This can happen due to several factors. Discovering new resources, like fertile land or oil reserves, expands the available resources for production. Technological advancements, like more efficient machinery, allow for greater output with the same amount of resources. Finally, an increase in the labor force, through population growth or immigration, provides more manpower to fuel production, pushing the PPF outwards and enabling a higher level of economic activity.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 47,
+        "level": 2,
+        "criteria": "Describe how the PPF concept is used in economics for understanding opportunity costs, comparative advantage, and international trade",
+        "result": "**: The main problem the student is facing in this criteria is that they need to understand the concept of opportunity cost and how it applies to trade-offs and decision-making.\n\n**Student's Solution**: The main problem the student is facing in this criteria is that they need to understand the concept of opportunity cost and how it applies to trade-offs and decision-making.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 48,
+        "level": 1,
+        "criteria": "Distinguish between shifts in the supply curve and movements along the curve.",
+        "result": "**: The main problem the student is facing in this criteria is to distinguish between shifts in the supply curve and movements along the curve itself.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 48,
+        "level": 2,
+        "criteria": "Describe Shifting Factors like Input Prices ,Technology,Number of Producers",
+        "result": "**: The main problem the student is facing is that the supply curve isn't set in stone and can be shifted by various factors besides the price of the good itself.\n\n**Student's Solution**: The supply curve isn't set in stone! Several factors besides a good's own price can cause it to shift. Rising input prices like material costs can make production expensive, pushing the curve left (less supply). Conversely, cheaper inputs or technological advancements that boost production efficiency shift the curve right (more supply). Even the number of producers matters - more sellers entering the market means a rightward shift, while existing producers leaving would cause a leftward shift, impacting market dynamics and influencing prices.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 49,
+        "level": 1,
+        "criteria": "Briefly explain the natural greenhouse effect",
+        "result": ":** Explain the main problem the student is facing in the criteria.\n\n**Student's Solution:** Briefly explain the natural greenhouse effect.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 49,
+        "level": 2,
+        "criteria": "Acknowledge that natural factors like volcanic eruptions or solar activity can also influence climate",
+        "result": "**: The main problem the student is facing in this criteria is that they are primarily focused on human activities as the primary driver of climate change, neglecting the significant role played by natural factors.\n\n**Student's Solution**: While human activities are the primary driver of climate change, natural factors also play a role. Volcanic eruptions can spew greenhouse gases and ash particles that temporarily influence Earth's temperature. Solar activity, with periods of high or low sunspot activity, can also contribute to minor fluctuations in climate over decades or centuries. However, these natural influences are dwarfed by the sustained rise in greenhouse gas concentrations from human activities like burning fossil fuels, which is causing a much faster and more significant warming trend.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 50,
+        "level": 1,
+        "criteria": "Describe what scarcity refers to",
+        "result": "**: Scarcity is the fundamental principle in economics that underpins all decision-making. It refers to the limited availability of resources (human effort, raw materials, time) compared to the seemingly endless wants and needs of people. This creates a situation where choices must be made, as we can't have everything we desire. Scarcity forces individuals and societies to prioritize, allocate resources efficiently, and determine what to produce, how to produce it, and for whom. It's the reason why economics is often referred to as \"the science of scarcity.\"\n\n**Student's Solution**: The main problem the student is facing in this criteria is that it does not provide an example of how scarcity can lead to a problem.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 50,
+        "level": 2,
+        "criteria": "Briefly mention different types of scarcity, such as scarcity of natural resources, time scarcity, or scarcity of specific skills or knowledge.",
+        "result": "**> Scarcity is a complex issue that encompasses different types of limitations on resources and time. Understanding these different types of scarcity helps us make informed decisions in a world of limited resources.\n\n<**Student's Solution**>\n\nScarcity isn't a one-size-fits-all concept. Economists recognize different types: scarcity of natural resources like oil or fertile land, where limitations are inherent. Time scarcity refers to the finite hours in a day that force us to prioritize tasks.  Scarcity can also be relative, like the limited pool of highly skilled workers in a specific field, making those skills valuable. Understanding these different types of scarcity helps us make informed decisions in a world of limited resources.<eos>"
+    },
+    {
+        "prompt_no": 7,
+        "question_no": 50,
+        "level": 3,
+        "criteria": "Describe a situation where scarcity creates a trade-off between different options.",
+        "result": "**: Describe a situation where scarcity creates a trade-off between different options.\n\n**Student's Solution**: Scarcity is all about limited resources versus unlimited wants. Imagine you're at a concert with limited edition merchandise. Everyone wants a shirt, but there aren't enough for everyone (resource scarcity). This forces you to make a tough choice (decision-making) - buy the shirt or save your money for something else (prioritization). This example highlights how scarcity shapes our economic behavior in everyday situations.<eos>"
+    }
+]

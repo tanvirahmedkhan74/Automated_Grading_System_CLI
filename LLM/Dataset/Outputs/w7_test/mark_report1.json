@@ -1,0 +1,1031 @@
+[
+    {
+        "prompt_no": 1,
+        "question_no": 1,
+        "level": 1,
+        "criteria": "Provide the definition of scaling up and scaling out.",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 1,
+        "level": 2,
+        "criteria": "Explain the differences between scaling up and scaling out",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 1,
+        "level": 3,
+        "criteria": "Describe what scaling up and scaling down focus on",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 1,
+        "level": 4,
+        "criteria": "Provide the benefits of scaling up and scaling out.",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 2,
+        "level": 1,
+        "criteria": "Use Correct Formula (\u00b0C) * 9/5) + 32 for converting degree celsius to fahrenheit scale",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 2,
+        "level": 2,
+        "criteria": "Provide the accurate calculation using the formula (\u00b0C) * 9/5) + 32 ",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 2,
+        "level": 3,
+        "criteria": "Mention Accurate unit of the fahrenheit scale = \u00b0F",
+        "result": "* YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 3,
+        "level": 1,
+        "criteria": "Mention the name of the founder of Mughal dynesty and the year Mughal dynesty was founded",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 3,
+        "level": 2,
+        "criteria": "Write the territories of Mughal emperor's.",
+        "result": "* YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 3,
+        "level": 3,
+        "criteria": "Explain the rules that the Mughal emperors used",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 3,
+        "level": 4,
+        "criteria": "Describe in which century and why did the Mughal dynesty began to decline",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 3,
+        "level": 5,
+        "criteria": "Provide the names of some famous Mughal emperors",
+        "result": "**:\n\n```\nYES\n**Babur**\nNO\n**Humayun**\nYES\n**Akbar**\nYES\n**Jahangir**\nNO\n**Shah Jahan**\nYES\n**Aurangzeb**\n```<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 4,
+        "level": 1,
+        "criteria": "Describe the city's association with wealthy Hindu merchants and their role in trade.",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 4,
+        "level": 2,
+        "criteria": "Describe the mixed architecture of Panam Nagar by mentioning the combination of European and Bengali style",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 4,
+        "level": 3,
+        "criteria": "Mention the reasons behind the abandonment of Panam City",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 5,
+        "level": 1,
+        "criteria": "Explain In which century permanent settlement policy was introduced",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 5,
+        "level": 2,
+        "criteria": "Describe the aims of the permanent settlement policy",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 5,
+        "level": 3,
+        "criteria": "Write about the tax collectors and revenue collecting policy during parmanent settlement",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 5,
+        "level": 4,
+        "criteria": "Describe the positive and negative impacts of the permanent settlement policy",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 6,
+        "level": 2,
+        "criteria": "Provide  the definition of atoms, elements and molecules",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 6,
+        "level": 2,
+        "criteria": "Describe the structure or formation of atoms, elements and molecules",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 7,
+        "level": 1,
+        "criteria": "Describe the heliocentric model in scientific revolution",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 7,
+        "level": 2,
+        "criteria": "Explain the process of the development of the scientific revolution",
+        "result": "**: NO\n\nThe scientific revolution was not characterized by an emphasis on abstract reasoning, quantitative thought, an understanding of how nature works, the view of nature as a machine, and the development of an experimental scientific method.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 8,
+        "level": 1,
+        "criteria": "Describe how is climate change and salinization related to Mesopotamian civilization",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 8,
+        "level": 2,
+        "criteria": "Describe the groups that took advantages of internal weaknesses during Mesopotamian civilization",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 8,
+        "level": 3,
+        "criteria": "Describe the unequal distribution of wealth during Mesopotamian civilization",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 9,
+        "level": 1,
+        "criteria": "Describe the Hydraulic theory in the origin of civilization",
+        "result": "**: NO\n\nThe Hydraulic Theory is not without criticism. Some argue it oversimplifies the factors that led to the rise of civilizations and doesn't fully account for the social and cultural aspects of their development.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 9,
+        "level": 2,
+        "criteria": "Explain the Urban revolution theory in origin of civilization",
+        "result": "**>` followed by the output for the given student's solution and criteria.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 9,
+        "level": 3,
+        "criteria": "Describe the Socioeconomic complexity theory in origin of civilization",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 9,
+        "level": 4,
+        "criteria": "Explain the state formation theory in origin of civilization",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 10,
+        "level": 1,
+        "criteria": "Write the definition of Ohm's law",
+        "result": "* YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 10,
+        "level": 2,
+        "criteria": "Explain the relationship between voltage,current and resistance",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 11,
+        "level": 1,
+        "criteria": "Describe the definitions of electric field and magnetic field",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 11,
+        "level": 2,
+        "criteria": "Explain how electric field and magnetic field is represented by",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 12,
+        "level": 1,
+        "criteria": "Explain electromagnetic force",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 12,
+        "level": 2,
+        "criteria": "Describe if two objects have the same charge, what would be their direction and why.",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 13,
+        "level": 1,
+        "criteria": " Use Correct Formula F = k * q1 * q2 / r^2  for calculating the electric force.",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 13,
+        "level": 2,
+        "criteria": "Provide the accurate calculation using the formula F = k * q1 * q2 / r^2",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 13,
+        "level": 3,
+        "criteria": "Write the proper unit = N",
+        "result": "*"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 14,
+        "level": 1,
+        "criteria": "Describe operation searchlight and the goals of operation searchlight",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 14,
+        "level": 2,
+        "criteria": "Write what happened in operation searchlight",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 14,
+        "level": 3,
+        "criteria": "Describe the consequences of operation searchlight",
+        "result": "**>` followed by the output for the given criteria.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 15,
+        "level": 1,
+        "criteria": "Explain the transfer of energy",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 15,
+        "level": 2,
+        "criteria": "Write the types of turbines",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 15,
+        "level": 3,
+        "criteria": "Explain the conversion process of energy in order to generate electricity from turbine",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 16,
+        "level": 1,
+        "criteria": "Explain solar flares and the causes,mechanism and impacts of solar flare",
+        "result": ":** NO\n\nThe student's solution does not meet the criteria. The solution does not provide a comprehensive explanation of solar flares, their causes, mechanisms, and impacts.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 16,
+        "level": 2,
+        "criteria": "Describe coronal mass ejecion and the causes,mechanism and impacts of  coronal mass ejection",
+        "result": "**>` followed by the output for the given criteria.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 16,
+        "level": 3,
+        "criteria": "Explain sun's magnetic field and its role in storing and releasing energy",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 16,
+        "level": 4,
+        "criteria": "Distinguish between the effects of solar flares and coronal mass ejection",
+        "result": "**: NO\n\nThe student's solution does not meet the criteria. The student's solution does not distinguish between the effects of solar flares and coronal mass ejections.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 17,
+        "level": 1,
+        "criteria": "Write about Raja Ram Mohan Roy",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 17,
+        "level": 2,
+        "criteria": "Explain the steps Raja Ram Mohan Roy took to prevent the widdow killing custom or Sati Pratha",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 17,
+        "level": 3,
+        "criteria": "Explain the roles Raja Ram Mohan Roy played during his lifetime to reform the society,implement modern education and reform religion",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 18,
+        "level": 1,
+        "criteria": "Explain definiton of electrostatic force and gravitational force",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 18,
+        "level": 2,
+        "criteria": "Explain the dependency of electrostatic force and gravitational force ",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 18,
+        "level": 3,
+        "criteria": "Compare the strength between electrostatic force and gravitational force",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 19,
+        "level": 1,
+        "criteria": "Describe Coumlomb's law?",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 19,
+        "level": 2,
+        "criteria": "Present the mathematical formula (F = k * q1 * q2 / r^2)",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 20,
+        "level": 1,
+        "criteria": "Explain operating system?",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 20,
+        "level": 2,
+        "criteria": "Explain the working method of operating system as a  resource allocator, process control center, file manager and device driver bridge",
+        "result": "**>` followed by the output for each instruction.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 20,
+        "level": 3,
+        "criteria": "Describe the procedure of protection and security of an operating system",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 21,
+        "level": 1,
+        "criteria": "Describe the structure of the Roman people's society",
+        "result": "**: NO\n\n**Criteria**: Describe the structure of the Roman people's society.\n\n**Student's Solution**: Roman society was a complex hierarchy with distinct classes. At the top stood the patricians, a hereditary aristocracy who held most political power and land ownership. Below them were the plebeians, a larger and more diverse group encompassing farmers, artisans, shopkeepers, and the urban poor. Slaves, captured in war or born into servitude, formed the lowest rung, providing labor for the wealthy and having no legal rights.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 21,
+        "level": 2,
+        "criteria": "Explain the classes Roman people had",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 21,
+        "level": 3,
+        "criteria": "Describe the citizenship and family life of Romanians.",
+        "result": "**: YES\n\n**Criteria**: Describe the citizenship and family life of Romanians.\n\n**Student's Solution**: Romanian citizenship follows a traditional jus sanguinis (right of blood) descent system, meaning citizenship is primarily passed down from parents to children. Romanians who have a Romanian parent are eligible to apply for citizenship, even if they were born abroad. Family life in Romania traditionally centers around close-knit extended families. Multigenerational households are common, with grandparents often playing an active role in raising children. Romanian culture places a strong emphasis on family values, with traditions and holidays celebrated together.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 22,
+        "level": 1,
+        "criteria": "Explain what  cloud computing refers to",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 22,
+        "level": 2,
+        "criteria": "Explain the benefits of cloud computing",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 22,
+        "level": 3,
+        "criteria": "Describe the procedure of maintaining resource sharing and security of cloud computing.",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 23,
+        "level": 1,
+        "criteria": "Explain priority inversion",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 23,
+        "level": 2,
+        "criteria": "Describe why priority inversion occurs",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 23,
+        "level": 3,
+        "criteria": "Describe the solution to priority inversion",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 24,
+        "level": 1,
+        "criteria": "Describe the definitions of deadlock and starvation",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 24,
+        "level": 2,
+        "criteria": "Explain why deadlock and starvation occurs in a system",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 25,
+        "level": 1,
+        "criteria": "Explain the definition of deadlock",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 25,
+        "level": 2,
+        "criteria": "Explain the four conditions of deadlock that must met simultaneously",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 25,
+        "level": 3,
+        "criteria": "Describe the method of preventing  deadlock",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 26,
+        "level": 1,
+        "criteria": "Describe how peer to peer network works",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 26,
+        "level": 2,
+        "criteria": "Explain how peer to peer network plays dual role",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 26,
+        "level": 3,
+        "criteria": "Explain how peer to peer network share resource",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 27,
+        "level": 1,
+        "criteria": "Describe what is clustering",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 27,
+        "level": 2,
+        "criteria": "Provide the definitions of asymmetric and symmetric clustering",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 27,
+        "level": 3,
+        "criteria": "Explain the master-slave term in asymmetric clustering",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 27,
+        "level": 4,
+        "criteria": "Explain how the nodes play role in symmetric clustering",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 28,
+        "level": 1,
+        "criteria": "Explain what is partition of Bengal and who stated the term 'Partition'",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 28,
+        "level": 2,
+        "criteria": "Describe the divide and rule policy",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 28,
+        "level": 3,
+        "criteria": "Explain How the Hindu and Muslim people reacted to the partition of Bengal",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 28,
+        "level": 4,
+        "criteria": "Write the impacts of partition of bengal on the people of Bengal",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 29,
+        "level": 1,
+        "criteria": "Describe what is the crusade, when did crusade happen and who were the parties of war",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 29,
+        "level": 2,
+        "criteria": "Write the reason behind recapturing Jerusalem by the Christian people",
+        "result": "**: YES\n\n**Reason**: The Crusades were sparked by a call to recapture Jerusalem, the holiest city in Christianity.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 29,
+        "level": 3,
+        "criteria": "Provide informations about Pope Urban II and the method he used to influence peple to participate in crusade war",
+        "result": "**: YES\n\n**Criteria**: Pope Urban II used powerful rhetoric, painting a picture of a suffering Christian holy land and urging them to defend their faith. He promised forgiveness of sins for those who died fighting and used the rallying cry \"Deus Vult!\" (God wills it!) to ignite religious fervor among the crowd. This speech, coupled with appeals to chivalry and promises of land and riches, effectively mobilized a wave of European soldiers for the Crusades.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 29,
+        "level": 4,
+        "criteria": "Write the political and economic reason behind the crusade and who were likely to be benefited",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 30,
+        "level": 1,
+        "criteria": "Write the definition of politics and political science",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 30,
+        "level": 2,
+        "criteria": "Explain political science's use of theories to explain how political systems and power structures the function ",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 31,
+        "level": 1,
+        "criteria": "Explain what are service robots",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 31,
+        "level": 2,
+        "criteria": "Describe how service robots can help human in day to day life",
+        "result": "**: YES\n\n**Criteria**: Describe how service robots can help human in day to day life\n\n**Student's Solution**: Service robots can help human in day to day life by performing practical tasks that can improve our daily routines. They can handle cleaning duties like vacuuming or mopping floors, mow lawns or assist with maintenance tasks. In the healthcare field, service robots can assist surgeons in complex procedures, disinfect surfaces to reduce the spread of illness, or even provide companionship and reminders to take medication for elderly individuals.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 32,
+        "level": 1,
+        "criteria": "Describe revolt of 1857",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 32,
+        "level": 2,
+        "criteria": "Explain the introduction of greased enfield rifle",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 32,
+        "level": 3,
+        "criteria": "Emphasize the religious significance of cows for hindus and pigs for muslims",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 32,
+        "level": 4,
+        "criteria": "Explain how the enfield rifle issue led to the rebellion.",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 33,
+        "level": 1,
+        "criteria": "Write a brief description of deontology",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 33,
+        "level": 2,
+        "criteria": "Describe what deontology focuses on",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 33,
+        "level": 3,
+        "criteria": "Write example of deontology",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 34,
+        "level": 1,
+        "criteria": "Describe how India helped millions of Bangali refugees to escape violence created by Pakistani militaries.",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 34,
+        "level": 2,
+        "criteria": "Explain how india gave bangladeshi Military training and support",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 34,
+        "level": 3,
+        "criteria": "Write India's role to gain international support for Bangladesh",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 35,
+        "level": 1,
+        "criteria": "Briefly mention the reactants and products of photosynthesis",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 35,
+        "level": 2,
+        "criteria": "Explain how the photosynthesis process starts with the absorption of sunlight by pigment molecules",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 35,
+        "level": 3,
+        "criteria": "Describe how photosynthesis capture light energy and how it procudes ATP and NADPH ",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 35,
+        "level": 4,
+        "criteria": "Provide the importance of photosynthesis in our day to day life",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 36,
+        "level": 1,
+        "criteria": "Describe what is genetic engineering",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 36,
+        "level": 2,
+        "criteria": "Describe the term 'Direct manipulation' in genetic engineering",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 36,
+        "level": 3,
+        "criteria": "Briefly mention some techniques used in genetic engineering ",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 36,
+        "level": 4,
+        "criteria": "Describe various applications of genetic engineering",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 37,
+        "level": 1,
+        "criteria": "Describe what LLM refers to",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 37,
+        "level": 2,
+        "criteria": "Describe on which things LLMs are built on",
+        "result": "**>` followed by the answer itself.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 37,
+        "level": 3,
+        "criteria": "Explain the capabilities and the tasks LLMs can perform",
+        "result": "**>` followed by the corresponding answer.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 38,
+        "level": 1,
+        "criteria": "Write a brief  Siraj Ud Doulah and explain how he became Nabab of the then Bengal",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 38,
+        "level": 2,
+        "criteria": "Describe the battle  Siraj Ud Doulah  lose and the reasons that led to this battle",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 38,
+        "level": 3,
+        "criteria": "Provide the informartions about the people who betrayed Siraj Ud Doulah and the reasons behind betraying Siraj Ud Doulah",
+        "result": "**: YES\n\n**Criteria**: Provide the information about the people who betrayed Siraj Ud Doulah and the reasons behind betraying Siraj Ud Doulah<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 38,
+        "level": 4,
+        "criteria": "What were the consequences of the battle of plassey battle on Bengal",
+        "result": "**: NO\n\nThe Battle of Plassey had no significant consequences on Bengal.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 39,
+        "level": 1,
+        "criteria": "Explain that a deterministic finite automata(DFA) operates on a finite number of states",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 39,
+        "level": 2,
+        "criteria": "Emphasize that in deterministic finite automata(DFA)  for any given state and input symbol there is only one possible transition",
+        "result": ":** YES\n\n**Student's Solution:** \nThe defining characteristic of a Deterministic Finite Automata (DFA) lies in its deterministic nature. Unlike its non-deterministic cousin, a DFA has a clear path for processing input. For any given state the DFA is currently in, and any given input symbol it encounters, there can only be one possible transition.  Think of it like a train on a pre-defined track. No matter where the train is on the track (state of the DFA), there's only one direction (transition) it can go based on the signal (input symbol) it receives. This deterministic behavior allows DFAs to efficiently analyze input strings, reaching a clear \"accept\" or \"reject\" decision based on the transitions they make through their finite number of states.\n\n**Criteria:**\n- The defining characteristic of a Deterministic Finite Automata (DFA) lies in its deterministic nature.\n- Unlike its non-deterministic cousin, a DFA has a clear path for processing input.\n- For any given state the DFA is currently in, and any given input symbol it encounters, there can only be one possible transition.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 40,
+        "level": 1,
+        "criteria": "Emphasize the growing tensions and resentment over British policies like taxation and restrictions on self-governance.",
+        "result": "**: YES\n\n**Criteria**: Emphasize the growing tensions and resentment over British policies like taxation and restrictions on self-governance.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 40,
+        "level": 2,
+        "criteria": "Mention key events like the Boston Tea Party, Intolerable Acts, and battles of Lexington and Concord as turning points.",
+        "result": "**: YES\n\n**Student's Solution**: \nThe simmering tensions between the American colonies and Great Britain reached a boiling point in the years leading up to the American Revolution. The Boston Tea Party, a defiant act of protest against taxation without representation, sparked outrage from the British Parliament. In retaliation, the Intolerable Acts, a series of punitive measures aimed at punishing Massachusetts, further alienated the colonists. These harsh laws solidified a sense of oppression and a yearning for independence.  \nFinally, the skirmishes at Lexington and Concord, the first military clashes of the war, marked a point of no return, pushing the colonies into a full-scale fight for their freedom. These events \u2013 the Boston Tea Party, the Intolerable Acts, and the Battles of Lexington and Concord \u2013 stand as pivotal moments that transformed the colonists' grievances into a full-blown revolution.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 40,
+        "level": 3,
+        "criteria": "Briefly acknowledge the crucial support provided by France and other countries during american war",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 41,
+        "level": 1,
+        "criteria": "Mention that the Waterfall Model is known for its structured approach and emphasis on clear documentation at each stage",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 41,
+        "level": 2,
+        "criteria": "Emphasize the core principle of distinct phases like requirements gathering, design, development, testing, deployment, and maintenance in waterfall model.",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 41,
+        "level": 3,
+        "criteria": "Briefly acknowledge some disadvantages of waterfall model such as inflexibility to changes, potential for errors going undetected until later stages",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 42,
+        "level": 1,
+        "criteria": "Write a brief description of RISC and CISC Processor",
+        "result": ":** NO\n\n**Criteria:** Write a brief description of RISC and CISC processors.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 42,
+        "level": 2,
+        "criteria": "Distinguish between RISC and CISC processor by mentioning the advantages and disadvantages of the processors",
+        "result": "**: NO\n**Criteria**: Distinguish between RISC and CISC processor by mentioning the advantages and disadvantages of the processors<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 43,
+        "level": 1,
+        "criteria": "Describe Agile method",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 43,
+        "level": 2,
+        "criteria": "Briefly mention popular agile frameworks like Scrum,Kanban",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 43,
+        "level": 3,
+        "criteria": "Discuss the benefits of agile alongside potential drawbacks like complexity,resource demand etc",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 44,
+        "level": 1,
+        "criteria": "Briefly mention that time dilation also occurs due to velocity (special relativity), but the effect in space travel is primarily due to gravity.",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 44,
+        "level": 2,
+        "criteria": "Describe how time dilation is a real phenomenon considered in GPS satellite operations and astronaut aging.",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 45,
+        "level": 1,
+        "criteria": "Distinguish between hashing and encryption. Encryption allows decryption of data with a key, while hashing is a one-way process",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 45,
+        "level": 2,
+        "criteria": "Briefly mention common hashing algorithms like SHA-256 or MD5, used for various security purposes.",
+        "result": "* NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 46,
+        "level": 1,
+        "criteria": "Explain the law of demand in economics",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 46,
+        "level": 2,
+        "criteria": "Distinguish Between Quantity Demanded and Demand in economics",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 46,
+        "level": 3,
+        "criteria": "Briefly mention different types of demand, such as individual vs. market demand, elastic vs. inelastic demand",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 47,
+        "level": 1,
+        "criteria": "Briefly mention how the PPF can shift outwards due to factors like resource discovery, technological advancements, or increased labor force",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 47,
+        "level": 2,
+        "criteria": "Describe how the PPF concept is used in economics for understanding opportunity costs, comparative advantage, and international trade",
+        "result": "YES"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 48,
+        "level": 1,
+        "criteria": "Distinguish between shifts in the supply curve and movements along the curve.",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 48,
+        "level": 2,
+        "criteria": "Describe Shifting Factors like Input Prices ,Technology,Number of Producers",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 49,
+        "level": 1,
+        "criteria": "Briefly explain the natural greenhouse effect",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 49,
+        "level": 2,
+        "criteria": "Acknowledge that natural factors like volcanic eruptions or solar activity can also influence climate",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 50,
+        "level": 1,
+        "criteria": "Describe what scarcity refers to",
+        "result": "NO"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 50,
+        "level": 2,
+        "criteria": "Briefly mention different types of scarcity, such as scarcity of natural resources, time scarcity, or scarcity of specific skills or knowledge.",
+        "result": "**: YES\n\n**Criteria**: Briefly mention different types of scarcity, such as scarcity of natural resources, time scarcity, or scarcity of specific skills or knowledge.\n\n**Student's Solution**: Scarcity isn't a one-size-fits-all concept. Economists recognize different types: scarcity of natural resources like oil or fertile land, where limitations are inherent. Time scarcity refers to the finite hours in a day that force us to prioritize tasks.  Scarcity can also be relative, like the limited pool of highly skilled workers in a specific field, making those skills valuable. Understanding these different types of scarcity helps us make informed decisions in a world of limited resources.<eos>"
+    },
+    {
+        "prompt_no": 1,
+        "question_no": 50,
+        "level": 3,
+        "criteria": "Describe a situation where scarcity creates a trade-off between different options.",
+        "result": "NO"
+    }
+]

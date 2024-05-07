@@ -1,0 +1,394 @@
+[
+    {
+        "prompt_no": 4,
+        "question_no": 31,
+        "level": 1,
+        "criteria": "Explain what are service robots",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 31,
+        "level": 2,
+        "criteria": "Describe how service robots can help human in day to day life",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 32,
+        "level": 1,
+        "criteria": "Describe revolt of 1857",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 32,
+        "level": 2,
+        "criteria": "Explain the introduction of greased enfield rifle",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 32,
+        "level": 3,
+        "criteria": "Emphasize the religious significance of cows for hindus and pigs for muslims",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 32,
+        "level": 4,
+        "criteria": "Explain how the enfield rifle issue led to the rebellion.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 33,
+        "level": 1,
+        "criteria": "Write a brief description of deontology",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 33,
+        "level": 2,
+        "criteria": "Describe what deontology focuses on",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 33,
+        "level": 3,
+        "criteria": "Write example of deontology",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 34,
+        "level": 1,
+        "criteria": "Describe how India helped millions of Bangali refugees to escape violence created by Pakistani militaries.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 34,
+        "level": 2,
+        "criteria": "Explain how india gave bangladeshi Military training and support",
+        "result": 10
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 34,
+        "level": 3,
+        "criteria": "Write India's role to gain international support for Bangladesh",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 35,
+        "level": 1,
+        "criteria": "Briefly mention the reactants and products of photosynthesis",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 35,
+        "level": 2,
+        "criteria": "Explain how the photosynthesis process starts with the absorption of sunlight by pigment molecules",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 35,
+        "level": 3,
+        "criteria": "Describe how photosynthesis capture light energy and how it procudes ATP and NADPH ",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 35,
+        "level": 4,
+        "criteria": "Provide the importance of photosynthesis in our day to day life",
+        "result": 10
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 36,
+        "level": 1,
+        "criteria": "Describe what is genetic engineering",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 36,
+        "level": 2,
+        "criteria": "Describe the term 'Direct manipulation' in genetic engineering",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 36,
+        "level": 3,
+        "criteria": "Briefly mention some techniques used in genetic engineering ",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 36,
+        "level": 4,
+        "criteria": "Describe various applications of genetic engineering",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 37,
+        "level": 1,
+        "criteria": "Describe what LLM refers to",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 37,
+        "level": 2,
+        "criteria": "Describe on which things LLMs are built on",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 37,
+        "level": 3,
+        "criteria": "Explain the capabilities and the tasks LLMs can perform",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 38,
+        "level": 1,
+        "criteria": "Write a brief  Siraj Ud Doulah and explain how he became Nabab of the then Bengal",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 38,
+        "level": 2,
+        "criteria": "Describe the battle  Siraj Ud Doulah  lose and the reasons that led to this battle",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 38,
+        "level": 3,
+        "criteria": "Provide the informartions about the people who betrayed Siraj Ud Doulah and the reasons behind betraying Siraj Ud Doulah",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 38,
+        "level": 4,
+        "criteria": "What were the consequences of the battle of plassey battle on Bengal",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 39,
+        "level": 1,
+        "criteria": "Explain that a deterministic finite automata(DFA) operates on a finite number of states",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 39,
+        "level": 2,
+        "criteria": "Emphasize that in deterministic finite automata(DFA)  for any given state and input symbol there is only one possible transition",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 40,
+        "level": 1,
+        "criteria": "Emphasize the growing tensions and resentment over British policies like taxation and restrictions on self-governance.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 40,
+        "level": 2,
+        "criteria": "Mention key events like the Boston Tea Party, Intolerable Acts, and battles of Lexington and Concord as turning points.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 40,
+        "level": 3,
+        "criteria": "Briefly acknowledge the crucial support provided by France and other countries during american war",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 41,
+        "level": 1,
+        "criteria": "Mention that the Waterfall Model is known for its structured approach and emphasis on clear documentation at each stage",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 41,
+        "level": 2,
+        "criteria": "Emphasize the core principle of distinct phases like requirements gathering, design, development, testing, deployment, and maintenance in waterfall model.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 41,
+        "level": 3,
+        "criteria": "Briefly acknowledge some disadvantages of waterfall model such as inflexibility to changes, potential for errors going undetected until later stages",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 42,
+        "level": 1,
+        "criteria": "Write a brief description of RISC and CISC Processor",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 42,
+        "level": 2,
+        "criteria": "Distinguish between RISC and CISC processor by mentioning the advantages and disadvantages of the processors",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 43,
+        "level": 1,
+        "criteria": "Describe Agile method",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 43,
+        "level": 2,
+        "criteria": "Briefly mention popular agile frameworks like Scrum,Kanban",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 43,
+        "level": 3,
+        "criteria": "Discuss the benefits of agile alongside potential drawbacks like complexity,resource demand etc",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 44,
+        "level": 1,
+        "criteria": "Briefly mention that time dilation also occurs due to velocity (special relativity), but the effect in space travel is primarily due to gravity.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 44,
+        "level": 2,
+        "criteria": "Describe how time dilation is a real phenomenon considered in GPS satellite operations and astronaut aging.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 45,
+        "level": 1,
+        "criteria": "Distinguish between hashing and encryption. Encryption allows decryption of data with a key, while hashing is a one-way process",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 45,
+        "level": 2,
+        "criteria": "Briefly mention common hashing algorithms like SHA-256 or MD5, used for various security purposes.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 46,
+        "level": 1,
+        "criteria": "Explain the law of demand in economics",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 46,
+        "level": 2,
+        "criteria": "Distinguish Between Quantity Demanded and Demand in economics",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 46,
+        "level": 3,
+        "criteria": "Briefly mention different types of demand, such as individual vs. market demand, elastic vs. inelastic demand",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 47,
+        "level": 1,
+        "criteria": "Briefly mention how the PPF can shift outwards due to factors like resource discovery, technological advancements, or increased labor force",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 47,
+        "level": 2,
+        "criteria": "Describe how the PPF concept is used in economics for understanding opportunity costs, comparative advantage, and international trade",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 48,
+        "level": 1,
+        "criteria": "Distinguish between shifts in the supply curve and movements along the curve.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 48,
+        "level": 2,
+        "criteria": "Describe Shifting Factors like Input Prices ,Technology,Number of Producers",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 49,
+        "level": 1,
+        "criteria": "Briefly explain the natural greenhouse effect",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 49,
+        "level": 2,
+        "criteria": "Acknowledge that natural factors like volcanic eruptions or solar activity can also influence climate",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 50,
+        "level": 1,
+        "criteria": "Describe what scarcity refers to",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 50,
+        "level": 2,
+        "criteria": "Briefly mention different types of scarcity, such as scarcity of natural resources, time scarcity, or scarcity of specific skills or knowledge.",
+        "result": 8
+    },
+    {
+        "prompt_no": 4,
+        "question_no": 50,
+        "level": 3,
+        "criteria": "Describe a situation where scarcity creates a trade-off between different options.",
+        "result": 8
+    }
+]

@@ -1,0 +1,1031 @@
+[
+    {
+        "prompt_no": 9,
+        "question_no": 1,
+        "level": 1,
+        "criteria": "Provide the definition of scaling up and scaling out.",
+        "result": ":** Scaling refers to the practice of increasing the capacity of a system to handle more workload. There are two main approaches to scaling:\n\n1.Scaling Up (Vertical Scaling): This involves adding more resources to a single unit, such as a server.\nExample: Increasing the CPU cores or processing power of a server, Adding more RAM to the server.\n\n2.Scaling Out (Horizontal Scaling): This involves adding more individual units(servers) to distribute the workload.\nExample: Adding more web servers to handle increased web traffic, Adding more worker nodes in a distributed computing system.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 1,
+        "level": 2,
+        "criteria": "Explain the differences between scaling up and scaling out",
+        "result": ":** The Student's Solution mentions the following entities:\n\n- Storage software\n- Storage hardware\n- Companies\n- Scale-out model\n- Scale-up architectures<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 1,
+        "level": 3,
+        "criteria": "Describe what scaling up and scaling down focus on",
+        "result": "* <**No entities are mentioned in the criteria.**>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 1,
+        "level": 4,
+        "criteria": "Provide the benefits of scaling up and scaling out.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Server\n- RAM\n- CPU\n- Server\n- Processing nodes<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 2,
+        "level": 1,
+        "criteria": "Use Correct Formula (\u00b0C) * 9/5) + 32 for converting degree celsius to fahrenheit scale",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 2,
+        "level": 2,
+        "criteria": "Provide the accurate calculation using the formula (\u00b0C) * 9/5) + 32 ",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- C (person)\n- \u00b0C (symbol)\n- 73\u00b0 (number)\n- 9/5 (fraction)\n- 32 (number)<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 2,
+        "level": 3,
+        "criteria": "Mention Accurate unit of the fahrenheit scale = \u00b0F",
+        "result": ":** The criteria does not mention any entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 3,
+        "level": 1,
+        "criteria": "Mention the name of the founder of Mughal dynesty and the year Mughal dynesty was founded",
+        "result": "**: The Student's Solution mentions the founder of Mughal dynesty, Babur, and the year Mughal dynesty was founded, 1526.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 3,
+        "level": 2,
+        "criteria": "Write the territories of Mughal emperor's.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Mughal Empire\n- Indian subcontinent\n- India\n- Pakistan\n- Bangladesh\n- Iran<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 3,
+        "level": 3,
+        "criteria": "Explain the rules that the Mughal emperors used",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 3,
+        "level": 4,
+        "criteria": "Describe in which century and why did the Mughal dynesty began to decline",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 3,
+        "level": 5,
+        "criteria": "Provide the names of some famous Mughal emperors",
+        "result": "Some names of famous Mughal emperors are"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 4,
+        "level": 1,
+        "criteria": "Describe the city's association with wealthy Hindu merchants and their role in trade.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- City: Panam Nagar\n- People: wealthy Hindu merchants\n- Places: ruins of an older settlement, city's location along major rivers\n- Things: muslin and cotton fabrics<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 4,
+        "level": 2,
+        "criteria": "Describe the mixed architecture of Panam Nagar by mentioning the combination of European and Bengali style",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- European style\n- Bengali style\n- Hindu merchants\n- Red bricks<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 4,
+        "level": 3,
+        "criteria": "Mention the reasons behind the abandonment of Panam City",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 5,
+        "level": 1,
+        "criteria": "Explain In which century permanent settlement policy was introduced",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 5,
+        "level": 2,
+        "criteria": "Describe the aims of the permanent settlement policy",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 5,
+        "level": 3,
+        "criteria": "Write about the tax collectors and revenue collecting policy during parmanent settlement",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 5,
+        "level": 4,
+        "criteria": "Describe the positive and negative impacts of the permanent settlement policy",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- British East India Company\n- Bengal\n- Zamindars\n- Peasants<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 6,
+        "level": 2,
+        "criteria": "Provide  the definition of atoms, elements and molecules",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 6,
+        "level": 2,
+        "criteria": "Describe the structure or formation of atoms, elements and molecules",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Atoms\n- Elements\n- Molecules<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 7,
+        "level": 1,
+        "criteria": "Describe the heliocentric model in scientific revolution",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 7,
+        "level": 2,
+        "criteria": "Explain the process of the development of the scientific revolution",
+        "result": "**>\n\nThe Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 8,
+        "level": 1,
+        "criteria": "Describe how is climate change and salinization related to Mesopotamian civilization",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Mesopotamian civilization\n- Climate change\n- Tigris and Euphrates River\n- Persian Gulf\n- Saltwater intrusion<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 8,
+        "level": 2,
+        "criteria": "Describe the groups that took advantages of internal weaknesses during Mesopotamian civilization",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Amorites\n- Gutians\n- Akkadians\n- Babylonians<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 8,
+        "level": 3,
+        "criteria": "Describe the unequal distribution of wealth during Mesopotamian civilization",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Elite Class\n- Kings\n- Priests\n- High-ranking officials\n- Wealthy merchants\n- Commoners\n- Farmers\n- Artisans\n- Laborers\n- Slaves<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 9,
+        "level": 1,
+        "criteria": "Describe the Hydraulic theory in the origin of civilization",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 9,
+        "level": 2,
+        "criteria": "Explain the Urban revolution theory in origin of civilization",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 9,
+        "level": 3,
+        "criteria": "Describe the Socioeconomic complexity theory in origin of civilization",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Social Stratification\n- Economic Specialization\n- Monumental Architecture<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 9,
+        "level": 4,
+        "criteria": "Explain the state formation theory in origin of civilization",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 10,
+        "level": 1,
+        "criteria": "Write the definition of Ohm's law",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 10,
+        "level": 2,
+        "criteria": "Explain the relationship between voltage,current and resistance",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 11,
+        "level": 1,
+        "criteria": "Describe the definitions of electric field and magnetic field",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 11,
+        "level": 2,
+        "criteria": "Explain how electric field and magnetic field is represented by",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 12,
+        "level": 1,
+        "criteria": "Explain electromagnetic force",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 12,
+        "level": 2,
+        "criteria": "Describe if two objects have the same charge, what would be their direction and why.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- q 1\n- q 2<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 13,
+        "level": 1,
+        "criteria": " Use Correct Formula F = k * q1 * q2 / r^2  for calculating the electric force.",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 13,
+        "level": 2,
+        "criteria": "Provide the accurate calculation using the formula F = k * q1 * q2 / r^2",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 13,
+        "level": 3,
+        "criteria": "Write the proper unit = N",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 14,
+        "level": 1,
+        "criteria": "Describe operation searchlight and the goals of operation searchlight",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 14,
+        "level": 2,
+        "criteria": "Write what happened in operation searchlight",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 14,
+        "level": 3,
+        "criteria": "Describe the consequences of operation searchlight",
+        "result": ":** The Student's Solution mentions the following entities:\n\n- Pakistani military\n- Bengali nationalists\n- East Pakistan\n- Bangladesh\n- India<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 15,
+        "level": 1,
+        "criteria": "Explain the transfer of energy",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 15,
+        "level": 2,
+        "criteria": "Write the types of turbines",
+        "result": "**: Turbine\n\n**Student's Solution**: Turbines are machines that convert the energy of a moving fluid (liquid or gas) into mechanical energy. There are many different types of turbines, each with its own advantages and disadvantages. Here are the most common types:\n\n* Steam turbines: Steam turbines use the force of hot, pressurized steam to spin a shaft.\n* Gas turbines: Gas turbines use the force of hot, pressurized gas to spin a shaft.\n* Wind turbines: Wind turbines use the force of wind to spin a shaft.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 15,
+        "level": 3,
+        "criteria": "Explain the conversion process of energy in order to generate electricity from turbine",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 16,
+        "level": 1,
+        "criteria": "Explain solar flares and the causes,mechanism and impacts of solar flare",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 16,
+        "level": 2,
+        "criteria": "Describe coronal mass ejecion and the causes,mechanism and impacts of  coronal mass ejection",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Sun\n- corona\n- solar flares\n- Sun's magnetic field lines\n- Earth\n- satellites\n- power grids\n- communication systems\n- auroras<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 16,
+        "level": 3,
+        "criteria": "Explain sun's magnetic field and its role in storing and releasing energy",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Sun\n- Magnetic field\n- Plasma\n- Solar Flares\n- Coronal Mass Ejections<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 16,
+        "level": 4,
+        "criteria": "Distinguish between the effects of solar flares and coronal mass ejection",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 17,
+        "level": 1,
+        "criteria": "Write about Raja Ram Mohan Roy",
+        "result": "**: Yes\n\n**Student's Solution**: Raja Ram Mohan Roy was a pioneering figure in 19th century India.  \nNicknamed the \"Father of Modern India\" or the \"Father of the Bengal Renaissance,\" he was a social, \nreligious, and educational reformer who tirelessly advocated for social justice and modernization.  \nHe challenged traditional Hindu practices he deemed harmful and championed individual rights, particularly for women.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 17,
+        "level": 2,
+        "criteria": "Explain the steps Raja Ram Mohan Roy took to prevent the widdow killing custom or Sati Pratha",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Raja Ram Mohan Roy\n- Sati Pratha\n- British East India Company\n- Bengal<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 17,
+        "level": 3,
+        "criteria": "Explain the roles Raja Ram Mohan Roy played during his lifetime to reform the society,implement modern education and reform religion",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Raja Ram Mohan Roy\n- India\n- Sati\n- Women\n- Science\n- English\n- Hinduism<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 18,
+        "level": 1,
+        "criteria": "Explain definiton of electrostatic force and gravitational force",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 18,
+        "level": 2,
+        "criteria": "Explain the dependency of electrostatic force and gravitational force ",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Charges\n- Distance\n- Mass<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 18,
+        "level": 3,
+        "criteria": "Compare the strength between electrostatic force and gravitational force",
+        "result": "**: The Student's Solution mentions the entities: electrons, protons, objects with large masses.\n\n**Note**: The Student's Solution does not explicitly mention the strength of the forces, only that electrostatic force is dominant for electrons and gravitational force is dominant for objects with large masses.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 19,
+        "level": 1,
+        "criteria": "Describe Coumlomb's law?",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 19,
+        "level": 2,
+        "criteria": "Present the mathematical formula (F = k * q1 * q2 / r^2)",
+        "result": "**: The formula = (F = k * q1 * q2 / r^2) mentions the following entities:\n\n- Student\n- Formula\n- k\n- q1\n- q2\n- r<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 20,
+        "level": 1,
+        "criteria": "Explain operating system?",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Operating System (OS)\n- CPU\n- Memory\n- Storage\n- Peripheral Devices<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 20,
+        "level": 2,
+        "criteria": "Explain the working method of operating system as a  resource allocator, process control center, file manager and device driver bridge",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Operating System\n- Central Processing Unit (CPU)\n- Memory space\n- Storage capacity\n- Processes\n- Files\n- Secondary storage devices\n- Hardware components\n- Peripheral devices<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 20,
+        "level": 3,
+        "criteria": "Describe the procedure of protection and security of an operating system",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 21,
+        "level": 1,
+        "criteria": "Describe the structure of the Roman people's society",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 21,
+        "level": 2,
+        "criteria": "Explain the classes Roman people had",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- patricians\n- plebeians\n- farmers\n- artisans\n- shopkeepers\n- slaves<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 21,
+        "level": 3,
+        "criteria": "Describe the citizenship and family life of Romanians.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Romanians\n- Jus sanguinis\n- Romania\n- Family\n- Extended families\n- Grandparents<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 22,
+        "level": 1,
+        "criteria": "Explain what  cloud computing refers to",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 22,
+        "level": 2,
+        "criteria": "Explain the benefits of cloud computing",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 22,
+        "level": 3,
+        "criteria": "Describe the procedure of maintaining resource sharing and security of cloud computing.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Cloud provider\n- Cloud user\n- Virtualization technologies\n- Physical security measures\n- Access controls\n- Data encryption\n- Phishing attempts\n- Malware<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 23,
+        "level": 1,
+        "criteria": "Explain priority inversion",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 23,
+        "level": 2,
+        "criteria": "Describe why priority inversion occurs",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Task H\n- Task L\n- Task M\n- Resource (Lock or File)<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 23,
+        "level": 3,
+        "criteria": "Describe the solution to priority inversion",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 24,
+        "level": 1,
+        "criteria": "Describe the definitions of deadlock and starvation",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 24,
+        "level": 2,
+        "criteria": "Explain why deadlock and starvation occurs in a system",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Processes\n- Resources\n- Printers\n- Files<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 25,
+        "level": 1,
+        "criteria": "Explain the definition of deadlock",
+        "result": "**: Deadlock is a situation in which agreement in an argument cannot be reached because neither side will change its demands or accept any of the demands of the other side. Break the deadlock somebody will have to compromise if we are to break the deadlock between the two warring factions.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 25,
+        "level": 2,
+        "criteria": "Explain the four conditions of deadlock that must met simultaneously",
+        "result": "**: The criteria does not mention any specific entities (people, places, things), so the Student's Solution does not mention any of them.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 25,
+        "level": 3,
+        "criteria": "Describe the method of preventing  deadlock",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 26,
+        "level": 1,
+        "criteria": "Describe how peer to peer network works",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 26,
+        "level": 2,
+        "criteria": "Explain how peer to peer network plays dual role",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Peer devices\n- Clients\n- Servers\n- Network<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 26,
+        "level": 3,
+        "criteria": "Explain how peer to peer network share resource",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 27,
+        "level": 1,
+        "criteria": "Describe what is clustering",
+        "result": ":** The Student's Solution mentions the following entities:\n\n- Nodes\n- Computers\n- Network\n- Software<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 27,
+        "level": 2,
+        "criteria": "Provide the definitions of asymmetric and symmetric clustering",
+        "result": "**: Asymmetric clustering, a type of clustering system in an operating system, prioritizes tasks by designating one node as a \"hot standby\" and the others for running applications. The hot standby node continuously monitors the entire system. If a running application node fails, the hot standby takes over seamlessly, ensuring high availability and minimal downtime for critical tasks. This approach offers a cost-effective solution with increased reliability compared to single-node systems.\n\n**End of Student's Solution**<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 27,
+        "level": 3,
+        "criteria": "Explain the master-slave term in asymmetric clustering",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 27,
+        "level": 4,
+        "criteria": "Explain how the nodes play role in symmetric clustering",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 28,
+        "level": 1,
+        "criteria": "Explain what is partition of Bengal and who stated the term 'Partition'",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 28,
+        "level": 2,
+        "criteria": "Describe the divide and rule policy",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Colonial powers\n- Colonized population\n- Religious\n- Ethnic\n- Tribal\n- Education systems<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 28,
+        "level": 3,
+        "criteria": "Explain How the Hindu and Muslim people reacted to the partition of Bengal",
+        "result": "**>\n\nSure, the Student's Solution acknowledges the following entities:\n\n- Hindus\n- Muslims\n- Bengal\n- British<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 28,
+        "level": 4,
+        "criteria": "Write the impacts of partition of bengal on the people of Bengal",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Hindus\n- Muslims\n- Bengal\n- India\n- Bangladesh<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 29,
+        "level": 1,
+        "criteria": "Describe what is the crusade, when did crusade happen and who were the parties of war",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Christians\n- Muslims\n- Jerusalem\n- Holy Land<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 29,
+        "level": 2,
+        "criteria": "Write the reason behind recapturing Jerusalem by the Christian people",
+        "result": "**>` and follow the instructions.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 29,
+        "level": 3,
+        "criteria": "Provide informations about Pope Urban II and the method he used to influence peple to participate in crusade war",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Pope Urban II\n- Council of Clermont\n- Jerusalem\n- Muslims\n- Christian\n- Holy Land<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 29,
+        "level": 4,
+        "criteria": "Write the political and economic reason behind the crusade and who were likely to be benefited",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- European nobles\n- Knights\n- Church<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 30,
+        "level": 1,
+        "criteria": "Write the definition of politics and political science",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 30,
+        "level": 2,
+        "criteria": "Explain political science's use of theories to explain how political systems and power structures the function ",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 31,
+        "level": 1,
+        "criteria": "Explain what are service robots",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Service robots\n- People\n- Places\n- Things<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 31,
+        "level": 2,
+        "criteria": "Describe how service robots can help human in day to day life",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Service robots\n- Homes\n- Healthcare field\n- Surgeons\n- Surfaces\n- Elderly individuals<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 32,
+        "level": 1,
+        "criteria": "Describe revolt of 1857",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 32,
+        "level": 2,
+        "criteria": "Explain the introduction of greased enfield rifle",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 32,
+        "level": 3,
+        "criteria": "Emphasize the religious significance of cows for hindus and pigs for muslims",
+        "result": "**>\n\nThe criteria describe a situation with specific entities (people, places, things). Does the Student's Solution mention any of the entities? (YES/NO)<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 32,
+        "level": 4,
+        "criteria": "Explain how the enfield rifle issue led to the rebellion.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- British East India Company\n- India\n- Sepoys\n- Hindus\n- Muslims\n- Enfield rifle<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 33,
+        "level": 1,
+        "criteria": "Write a brief description of deontology",
+        "result": "**: YES\n\n**Student's Solution**: Deontology is an ethical theory that emphasizes following moral duties and obligations rather than focusing solely on consequences. Unlike consequentialist ethics which judge actions based on their outcomes, deontologists believe certain actions are inherently right or wrong, regardless of the situation. Think of it as a rule-based system, where following moral principles like truthfulness, fairness, and respecting the rights of others is paramount in making ethical decisions.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 33,
+        "level": 2,
+        "criteria": "Describe what deontology focuses on",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 33,
+        "level": 3,
+        "criteria": "Write example of deontology",
+        "result": "**: YES\n\n**Student's Solution**: The doctor prioritizes their duty to protect public health, adhering to principles of truthfulness and non-maleficence.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 34,
+        "level": 1,
+        "criteria": "Describe how India helped millions of Bangali refugees to escape violence created by Pakistani militaries.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- India\n- Pakistan\n- Bangali refugees\n- Bangladesh<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 34,
+        "level": 2,
+        "criteria": "Explain how india gave bangladeshi Military training and support",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- India\n- Bangladesh\n- Pakistan<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 34,
+        "level": 3,
+        "criteria": "Write India's role to gain international support for Bangladesh",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Indian diplomats\n- Pakistani military\n- Bangladesh\n- Pakistani narrative\n- Soviet Union\n- U.S.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 35,
+        "level": 1,
+        "criteria": "Briefly mention the reactants and products of photosynthesis",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 35,
+        "level": 2,
+        "criteria": "Explain how the photosynthesis process starts with the absorption of sunlight by pigment molecules",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Chloroplasts\n- Chlorophyll\n- Plant cells\n- Water\n- Carbon dioxide\n- Glucose<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 35,
+        "level": 3,
+        "criteria": "Describe how photosynthesis capture light energy and how it procudes ATP and NADPH ",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Chlorophyll\n- Chloroplasts\n- Sunlight\n- Electron\n- Protein complexes\n- ATP\n- NADPH<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 35,
+        "level": 4,
+        "criteria": "Provide the importance of photosynthesis in our day to day life",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Plants\n- Light energy\n- Glucose\n- Oxygen<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 36,
+        "level": 1,
+        "criteria": "Describe what is genetic engineering",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 36,
+        "level": 2,
+        "criteria": "Describe the term 'Direct manipulation' in genetic engineering",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Genetic engineering\n- DNA\n- Organisms\n- Genes\n- Traits\n- GMOs<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 36,
+        "level": 3,
+        "criteria": "Briefly mention some techniques used in genetic engineering ",
+        "result": ":** Yes\n\n**Student's Solution:** Genetic engineering utilizes a toolbox of techniques to manipulate DNA. Some common methods include: inserting new genes using vectors like plasmids (circular DNA molecules), removing unwanted genes with restriction enzymes (molecular scissors), and altering existing genes through techniques like CRISPR (a system that precisely edits DNA). These techniques allow scientists to tailor the genetic makeup of organisms for various purposes.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 36,
+        "level": 4,
+        "criteria": "Describe various applications of genetic engineering",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 37,
+        "level": 1,
+        "criteria": "Describe what LLM refers to",
+        "result": ":**\n\nSure, the Student's Solution mentions the following entities:\n\n- Large language models (LLMs)\n\n**Additional Notes:**\n\n- The Student's Solution is well-written and provides a clear and concise explanation of LLMs.\n- The Student's Solution is relevant to the criteria because it provides a basic understanding of what LLMs are and their capabilities.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 37,
+        "level": 2,
+        "criteria": "Describe on which things LLMs are built on",
+        "result": "**>` and follow the instructions in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 37,
+        "level": 3,
+        "criteria": "Explain the capabilities and the tasks LLMs can perform",
+        "result": ":** LLMs are like super-powered language processors trained on massive amounts of text data. Here's what they're capable of:\n\n* Generating Text: LLMs can create different creative text formats, like poems, code, scripts, musical pieces, emails, or even letters in various styles. They can tailor their output based on the information you provide, making them useful for content creation or even brainstorming ideas.\n* Understanding Language: LLMs are adept at understanding the nuances of human language. They can grasp the context of a conversation, identify sentiment (positive, negative, etc.), and follow along with complex topics. This allows them to answer your questions in an informative way, even if they are open ended or challenging.\n* Translation: LLMs can translate languages with impressive accuracy, breaking down language barriers and facilitating communication across cultures.\n* Summarization: Need a quick overview of a lengthy document? LLMs can condense information, extracting key points and providing summaries that capture the essence of the text.\n* Question Answering: LLMs can act as information search engines, sifting through massive amounts of data to answer your questions directly, like a digital librarian providing summaries or specific details.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 38,
+        "level": 1,
+        "criteria": "Write a brief  Siraj Ud Doulah and explain how he became Nabab of the then Bengal",
+        "result": "Yes"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 38,
+        "level": 2,
+        "criteria": "Describe the battle  Siraj Ud Doulah  lose and the reasons that led to this battle",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Siraj Ud Doulah\n- British East India Company\n- Calcutta\n- Mir Jafar<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 38,
+        "level": 3,
+        "criteria": "Provide the informartions about the people who betrayed Siraj Ud Doulah and the reasons behind betraying Siraj Ud Doulah",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Mir Jafar\n- Siraj Ud Doulah\n- East India Company<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 38,
+        "level": 4,
+        "criteria": "What were the consequences of the battle of plassey battle on Bengal",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- East India Company\n- Mughal Empire\n- Bengal\n- British<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 39,
+        "level": 1,
+        "criteria": "Explain that a deterministic finite automata(DFA) operates on a finite number of states",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 39,
+        "level": 2,
+        "criteria": "Emphasize that in deterministic finite automata(DFA)  for any given state and input symbol there is only one possible transition",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 40,
+        "level": 1,
+        "criteria": "Emphasize the growing tensions and resentment over British policies like taxation and restrictions on self-governance.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Colonists\n- British policies\n- Stamp Act\n- Townshend Acts\n- Proclamation of 1763<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 40,
+        "level": 2,
+        "criteria": "Mention key events like the Boston Tea Party, Intolerable Acts, and battles of Lexington and Concord as turning points.",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 40,
+        "level": 3,
+        "criteria": "Briefly acknowledge the crucial support provided by France and other countries during american war",
+        "result": "**: The Student's Solution acknowledges the role of France and other countries in supporting the American colonists during the American War.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 41,
+        "level": 1,
+        "criteria": "Mention that the Waterfall Model is known for its structured approach and emphasis on clear documentation at each stage",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 41,
+        "level": 2,
+        "criteria": "Emphasize the core principle of distinct phases like requirements gathering, design, development, testing, deployment, and maintenance in waterfall model.",
+        "result": "**>\n\nThe Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 41,
+        "level": 3,
+        "criteria": "Briefly acknowledge some disadvantages of waterfall model such as inflexibility to changes, potential for errors going undetected until later stages",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 42,
+        "level": 1,
+        "criteria": "Write a brief description of RISC and CISC Processor",
+        "result": "**: RISC (Reduced Instruction Set Computing) processors prioritize efficiency over complexity. Unlike processors that understand a wide range of complex instructions (CISC), RISC focuses on a smaller set of simpler ones. This allows for faster decoding and execution, making them ideal for mobile devices and embedded systems that prioritize speed and lower power consumption. The trade-off is that complex tasks might require more instructions on a RISC processor, and they rely more on hardware for certain operations compared to CISC processors.\n\n**Note**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 42,
+        "level": 2,
+        "criteria": "Distinguish between RISC and CISC processor by mentioning the advantages and disadvantages of the processors",
+        "result": ":** RISC and CISC processors take opposing approaches to instruction sets. RISC (Reduced Instruction Set Computing) prioritizes simplicity with a smaller set of basic instructions that are faster to execute. This makes them ideal for mobile devices where efficiency and low power consumption are key. However, complex tasks might require more RISC instructions. CISC (Complex Instruction Set Computing) processors offer a wider range of complex instructions, making them versatile for various tasks without needing extra hardware.  The downside is that these complex instructions take longer to decode, potentially slowing down processing and increasing power usage. So, RISC shines in mobile devices with its speed and efficiency, \n                while CISC remains relevant for specific tasks on personal computers where its versatility can be an advantage.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 43,
+        "level": 1,
+        "criteria": "Describe Agile method",
+        "result": ":** YES\n\n**Student's Solution:** The Agile method is a project management approach that prioritizes flexibility and continuous improvement. Unlike traditional, waterfall methods, Agile breaks projects into smaller, iterative phases called sprints. During each sprint, teams focus on specific goals, collaborate closely, and deliver working features. This allows for quick adaptation to changing requirements and feedback, making it well-suited for projects with evolving needs or uncertain environments.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 43,
+        "level": 2,
+        "criteria": "Briefly mention popular agile frameworks like Scrum,Kanban",
+        "result": "**>\n\nThe Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 43,
+        "level": 3,
+        "criteria": "Discuss the benefits of agile alongside potential drawbacks like complexity,resource demand etc",
+        "result": "**: Yes\n\n**Student's Solution**: Agile offers advantages like flexibility to adapt to changes, faster delivery of features, improved quality through continuous testing, and better collaboration. However, it can be complex to manage due to multiple sprints and changing requirements, requires adaptable and available resources, may struggle with unclear requirements, and risk uncontrolled feature creep.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 44,
+        "level": 1,
+        "criteria": "Briefly mention that time dilation also occurs due to velocity (special relativity), but the effect in space travel is primarily due to gravity.",
+        "result": ":** The Student's Solution mentions the following entities:\n\n- Time dilation\n- Gravity\n- Space travel\n- Special relativity\n- General relativity<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 44,
+        "level": 2,
+        "criteria": "Describe how time dilation is a real phenomenon considered in GPS satellite operations and astronaut aging.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- GPS satellites\n- astronauts\n- Earth\n- space station<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 45,
+        "level": 1,
+        "criteria": "Distinguish between hashing and encryption. Encryption allows decryption of data with a key, while hashing is a one-way process",
+        "result": "**: Hashing and encryption are both crucial for data security, but they work in fundamentally different ways. Encryption scrambles data using a key, making it unreadable. This scrambled data can then be unscrambled (decrypted) with the correct key, allowing authorized access to the original information. Hashing, on the other hand, is a one-way street. It transforms data into a unique fixed-size code (hash) using a mathematical function. There's no key to decrypt the hash back to the original data.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 45,
+        "level": 2,
+        "criteria": "Briefly mention common hashing algorithms like SHA-256 or MD5, used for various security purposes.",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 46,
+        "level": 1,
+        "criteria": "Explain the law of demand in economics",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 46,
+        "level": 2,
+        "criteria": "Distinguish Between Quantity Demanded and Demand in economics",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 46,
+        "level": 3,
+        "criteria": "Briefly mention different types of demand, such as individual vs. market demand, elastic vs. inelastic demand",
+        "result": "**>\n\nSure, the Student's Solution acknowledges the following entities:\n\n- Individual consumer\n- Market\n- Luxury goods\n- Essential goods<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 47,
+        "level": 1,
+        "criteria": "Briefly mention how the PPF can shift outwards due to factors like resource discovery, technological advancements, or increased labor force",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Resources (new resources, fertile land, oil reserves)\n- Technology (more efficient machinery)\n- Labor force (population growth, immigration)<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 47,
+        "level": 2,
+        "criteria": "Describe how the PPF concept is used in economics for understanding opportunity costs, comparative advantage, and international trade",
+        "result": "**>\n\nThe Student's Solution mentions the following entities:\n\n- Production Possibility Frontier (PPF)\n- Opportunity cost\n- Comparative advantage\n- International trade<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 48,
+        "level": 1,
+        "criteria": "Distinguish between shifts in the supply curve and movements along the curve.",
+        "result": "**: The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 48,
+        "level": 2,
+        "criteria": "Describe Shifting Factors like Input Prices ,Technology,Number of Producers",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Input prices\n- Technology\n- Number of producers<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 49,
+        "level": 1,
+        "criteria": "Briefly explain the natural greenhouse effect",
+        "result": ":** The Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 49,
+        "level": 2,
+        "criteria": "Acknowledge that natural factors like volcanic eruptions or solar activity can also influence climate",
+        "result": "**>\n\nThe Student's Solution does not mention any of the entities (people, places, things) described in the criteria.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 50,
+        "level": 1,
+        "criteria": "Describe what scarcity refers to",
+        "result": "**: Yes\n\n**Student's Solution**: The criteria mention the concept of scarcity, which is a fundamental principle in economics that underpins all decision-making. Scarcity refers to the limited availability of resources (human effort, raw materials, time) compared to the seemingly endless wants and needs of people.<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 50,
+        "level": 2,
+        "criteria": "Briefly mention different types of scarcity, such as scarcity of natural resources, time scarcity, or scarcity of specific skills or knowledge.",
+        "result": "**: The Student's Solution mentions the following entities:\n\n- Natural resources\n- Time\n- Skills and knowledge<eos>"
+    },
+    {
+        "prompt_no": 9,
+        "question_no": 50,
+        "level": 3,
+        "criteria": "Describe a situation where scarcity creates a trade-off between different options.",
+        "result": "**: YES\n\nThe Student's Solution mentions the following entities:\n\n- People: concert attendees\n- Places: concert venue\n- Things: limited edition merchandise<eos>"
+    }
+]
