@@ -3,49 +3,118 @@ import inquirer from "inquirer";
 import axios from "axios";
 import FormData from "form-data";
 import { LocalStorage } from "node-localstorage";
+import fs from "fs/promises";
+import path from "path";
 
-export function Assessment(user) {
-  // const user = localStorage.getItem('user'); // Assuming user data is stored in localStorage
-  // if (!user) {
-  //   console.error(chalk.red("Error: User data not found. Please authenticate first."));
-  //   return;
-  // }
+export async function Assessment(user, args) {
+  const formData = new FormData();
+  formData.append("_id", "");
+  formData.append("title", args[0] || "");
+  formData.append("description", "");
+  formData.append("rubricLink", args[1] || "");
+  formData.append("studentInfoLink", args[2] || "");
+  formData.append("startDate", "");
+  formData.append("endDate", "");
+  formData.append("update", "false");
 
-  return inquirer
-    .prompt([
-      {
-        type: "list",
-        name: "action",
-        message: chalk.cyan("What do you want to do?"),
-        choices: ["Create New Assessment", "Fetch Existing", "Exit"],
-      },
-    ])
-    .then((answer) => {
-      switch (answer.action) {
-        case "Create New Assessment":
-          return createAssessment(user.accessToken);
-        case "Fetch Existing":
-          return fetchExistingAssessments(user);
-        case "Exit":
-          console.log(chalk.redBright("Good Bye!"));
-          return Promise.resolve(); // Resolve with no value for Exit
-        default:
-          console.error(chalk.red("Invalid option. Please choose 0 or 1."));
-          return Promise.reject(new Error("Invalid user choice")); // Handle error
+  try {
+    let directory = args[3];
+    const parentdir = process.cwd();
+    const absolute_dir = path.resolve(parentdir, directory);
+
+    // Validate the directory existence and read access
+    try {
+      await fs.access(absolute_dir, fs.constants.F_OK | fs.constants.R_OK);
+    } catch (err) {
+      if (err.code === "ENOENT") {
+        console.error(
+          `Path "${absolute_dir}" does not exist or is not readable.`
+        );
+      } else {
+        console.error(`Error accessing directory "${absolute_dir}":`, err);
       }
-    });
+      return []; // Return an empty array on error
+    }
+
+    // Read the files for the directory
+    const dirents = await fs.readdir(absolute_dir);
+    console.log(absolute_dir);
+    // Map all the files into the array and filter PDFs
+    const files = await Promise.all(
+      dirents.map(async (dirent) => {
+        const filePath = path.join(absolute_dir, dirent);
+        const stats = await fs.stat(filePath);
+        if (stats.isFile() && path.extname(filePath).toLowerCase() === ".pdf") {
+          return filePath;
+        }
+        return null;
+      })
+    );
+
+    const filtered_files = files.filter(Boolean);
+    console.log(filtered_files);
+
+    for (let i = 0; i < filtered_files.length; i++) {
+      formData.append("pdfs", filtered_files[i]);
+    }
+
+    try {
+      const response = await axios.post(
+        `http://localhost:8000/db/saveAssessment/${user.googleId}`,
+        formData,
+        { headers: { "Content-Type": "multipart/form-data" } }
+      );
+      console.log(
+        chalk.green(
+          `Assessment Created Successfully!\nMarksheet Link: ${response?.data.message}`
+        )
+      );
+    } catch (error) {
+      console.error(chalk.red("Error creating assessment:", error));
+    }
+  } catch (err) {
+    console.log("Error uploading files!", err);
+  }
 }
 
-function createAssessment(token) {
-  // Implement logic to inquire about title, links, directory, etc.
-  // ... your code to get assessment details ...
+async function getPdfFiles(directory) {
+  // Get the absolute file path
+  const parentdir = process.cwd();
+  const absolute_dir = path.resolve(parentdir, directory);
 
-  return new Promise((resolve) => {
-    console.log(chalk.green("New Assessment created successfully!")); // Replace with actual creation logic
-    resolve();
-  });
+  // Validate the directory existence and read access
+  try {
+    await fs.access(absolute_dir, fs.constants.F_OK | fs.constants.R_OK);
+  } catch (err) {
+    if (err.code === "ENOENT") {
+      console.error(
+        `Path "${absolute_dir}" does not exist or is not readable.`
+      );
+    } else {
+      console.error(`Error accessing directory "${absolute_dir}":`, err);
+    }
+    return []; // Return an empty array on error
+  }
+
+  // Read the files for the directory
+  const dirents = await fs.readdir(absolute_dir);
+
+  // Map all the files into the array and filter PDFs
+  const files = await Promise.all(
+    dirents.map(async (dirent) => {
+      const filePath = path.join(absolute_dir, dirent);
+      const stats = await fs.stat(filePath);
+      if (stats.isFile() && path.extname(filePath).toLowerCase() === ".pdf") {
+        return filePath;
+      }
+      return null;
+    })
+  );
+
+  return files.filter(Boolean); // Remove null values (excluded non-PDF items)
 }
 
+// @Deprecated Function
 function fetchExistingAssessments(user) {
   return new Promise((resolve, reject) => {
     axios
@@ -115,7 +184,7 @@ function fetchExistingAssessments(user) {
                   .post(
                     `http://localhost:8000/db/saveAssessment/${user.googleId}`,
                     formData,
-                    { headers: { 'Content-Type': 'multipart/form-data' } }
+                    { headers: { "Content-Type": "multipart/form-data" } }
                   )
                   .then((response) => {
                     console.log(

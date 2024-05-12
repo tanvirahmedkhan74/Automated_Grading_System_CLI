@@ -22,13 +22,14 @@ const createAssessment = async (googleId, accessToken, assessmentData) =>  {
 
         // Send Mail {Commenting it for not spamming with mail while in dev}
         const formUri = googleForm.responderUri;
-        const sendMail = await SendFormLinkMail(accessToken, studentData, formUri);
+        // const sendMail = await SendFormLinkMail(accessToken, studentData, formUri);
         // const googleFormResponses = await getGoogleFormResponse(googleForm.formId, accessToken);
         // const answerResponse = await saveAnswerResponse(googleFormResponses, assessmentData._id, googleForm.formId, accessToken);
         const question_answers = await mappedQuestionAnswers(assessmentData._id, false);
         const markSheet = await createMarkSheet(accessToken, assessmentData._id);
 
         console.log(markSheet);
+        return markSheet;
     }catch(error){
         console.log('Error while Saving New Google Form Data: ', error);
     }

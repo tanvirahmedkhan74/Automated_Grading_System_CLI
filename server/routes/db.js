@@ -21,6 +21,7 @@ const extractText = async (filePath) => {
     const dataBuffer = await fs.readFile(filePath);
     const data = await pdf(dataBuffer);
     
+    console.log(data.text);
     return data.text;
   } catch (err) {
     console.error("Error extracting text:", err);
@@ -88,14 +89,17 @@ router.post(
       console.log(assessmentData);
       const textContents = [];
       // Check For Files
-      if (req?.files) {
+      if (assessmentData?.pdfs) {
         // Create Text Items and send for saving
-        const files = req.files; // Array of files
+        const files = assessmentData?.pdfs; // Array of files
+        console.log('Requested Files: ', files);
 
         for (const file of files) {
-            const text = await extractText(file.path);
+            const text = await extractText(file);
             textContents.push(text);
         }
+
+        console.log(textContents);
         
         // Add Text Contents to the Vector Database
         const BASE_API_URL = 'http://127.0.0.1:5000';
@@ -107,14 +111,6 @@ router.post(
           console.log(res);
         } catch (error) {
           console.log("Error while storing vector embed, ", error)
-        }
-        // TODO: Delete the files from static
-        for (const file of files) {
-            try{
-                fs.unlink(file.path);
-            }catch(err){
-                console.log('Error while unlinking pdf', err);
-            }
         }
 
         console.log(textContents);
@@ -169,8 +165,9 @@ router.post(
         if (response) {
           const data = await Assessment.findById(response._id);
 
-          res.status(200).json({ message: "Creation Successful" });
-          const creationResponse = createAssessment(id, accessToken, data);
+          // res.status(200).json({ message: "Creation Successful" });
+          const creationResponse = await createAssessment(id, accessToken, data);
+          res.status(200).json({ message: creationResponse });
         } else {
           res.status(200).json({ message: "Assessment creation failed" });
         }

@@ -18,29 +18,33 @@ const localStorage = new LocalStorage("./scratch");
 program
   .version("1.0.0")
   .description("Automated Grading System CLI")
-  .option("-n, --name <type>", "Add your name");
+  .argument("<assessment_name>", "Name of the Assessment")
+  .argument("<rubric_sheet_link>", "Google sheet link for the rubrics")
+  .argument("student_sheet_link", "Google sheet link of thee students")
+  .argument(
+    "<RAG_directory>",
+    "Directory containing PDF files for the assessment"
+  )
+  .action(
+    async (assessmentName, rubricSheetLink, studentSheetLink, RAGDirectory) => {
+      const args = [assessmentName, rubricSheetLink, studentSheetLink, RAGDirectory];
+      // Logo
+      console.log(
+        chalk.yellow(figlet.textSync("Skeptic", { horizontalLayout: "full" }))
+      );
 
-program.action(async () => {
-  // Logo
-  console.log(
-    chalk.yellow(figlet.textSync("Skeptic", { horizontalLayout: "full" }))
+      try {
+        // Google Authentication Process
+        const authentication = await getAccessToken(args);
+      } catch (err) {
+        console.error(chalk.red(err.message));
+        process.exit(1);
+      }
+    }
   );
-  
-  try {
-    // Run Backend Server
-    // const bs = backendServer();
-    // Change dir back to CLI
-    process.chdir("../CLI");
-    // Google Authentication Process
-    const authentication = await getAccessToken();
-  } catch (err) {
-    console.error(chalk.red(err.message));
-    process.exit(1);
-  }
-});
 program.parse(process.argv);
 
-async function getAccessToken() {
+async function getAccessToken(args) {
   try {
     let token;
     // Prompt user to open login link in a browser (interaction assumed)
@@ -65,7 +69,7 @@ async function getAccessToken() {
           localStorage.setItem("user", decoded);
 
           // Assessment Starts
-          const assessment = await Assessment(decoded.user);
+          const assessment = await Assessment(decoded.user, args);
         } else {
           console.log("Hmm! Seems like you are not authenticated, BYE");
         }
