@@ -216,7 +216,7 @@ const createMarkSheet = async (
         data: spreadsheet.data,
         url: spreadsheet.request.responseURL,
       };
-      markSheetUrl = spreadsheet.request.responseURL;
+      markSheetUrl = "https://docs.google.com/spreadsheets/d/" + spreadsheet.data.spreadsheetId;
       await Assessment.updateOne(
         {
           _id: assessmentData._id,
